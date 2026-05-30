@@ -2,16 +2,12 @@ name: Fetch Spartanburg Civic Feeds
 
 on:
   schedule:
-    # Runs every Monday at 6am ET (10:00 UTC)
     - cron: '0 10 * * 1'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-  env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  
 jobs:
   fetch:
     runs-on: ubuntu-latest
