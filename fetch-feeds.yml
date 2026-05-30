@@ -1,0 +1,37 @@
+name: Fetch Spartanburg Civic Feeds
+
+on:
+  schedule:
+    # Runs every Monday at 6am ET (10:00 UTC)
+    - cron: '0 10 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests feedparser beautifulsoup4 lxml
+
+      - name: Fetch feeds
+        env:
+          FOLO_TOKEN: ${{ secrets.FOLO_TOKEN }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: python fetch_feeds.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Feed update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
