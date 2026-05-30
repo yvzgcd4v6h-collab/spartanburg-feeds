@@ -6,6 +6,12 @@ on:
     - cron: '0 10 * * 1'
   workflow_dispatch: # Allow manual trigger
 
+permissions:
+  contents: write
+
+  env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
 jobs:
   fetch:
     runs-on: ubuntu-latest
