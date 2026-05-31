@@ -24,10 +24,11 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests feedparser beautifulsoup4 lxml \
-            lxml_html_clean facebook-scraper instaloader
+                      lxml_html_clean facebook-scraper instaloader
 
       - name: Fetch feeds
         env:
+          URBANPLANET_COOKIE: ${{ secrets.URBANPLANET_COOKIE }}
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python fetch_feeds.py
 
