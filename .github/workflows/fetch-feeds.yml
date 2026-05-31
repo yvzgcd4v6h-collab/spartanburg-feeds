@@ -22,11 +22,12 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests feedparser beautifulsoup4 lxml
+        run: |
+          pip install requests feedparser beautifulsoup4 lxml \
+                      facebook-scraper instaloader
 
       - name: Fetch feeds
         env:
-          FOLO_TOKEN: ${{ secrets.FOLO_TOKEN }}
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python fetch_feeds.py
 
