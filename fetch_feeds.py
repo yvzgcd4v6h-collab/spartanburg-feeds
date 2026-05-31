@@ -65,11 +65,18 @@ def fetch_urbanplanet():
 # ── RSS FEEDS ────────────────────────────────────────────────────────────────
 
 RSS_FEEDS = [
-    ("https://www.wspa.com/feed/",
-     "WSPA 7News"),
-    ("https://upstatebusinessjournal.com/feed/",
-     "Upstate Business Journal"),
-    # City of Spartanburg — government CivicEngage RSS (reliable)
+    # rss.app feeds (Facebook pages + Instagram accounts)
+    ("https://rss.app/feeds/raJfXrAx42I8i8eS.xml",  "Spartanburg Eats (Facebook)"),
+    ("https://rss.app/feeds/SFJkaypiEf4ERwhS.xml",   "Downtown Spartanburg SC (Facebook)"),
+    ("https://rss.app/feeds/xjllCTaAkrwzeRhn.xml",   "City of Spartanburg (Facebook)"),
+    ("https://rss.app/feeds/HFtAbfia2rPYEQio.xml",   "McMillan Pazdan Smith (Facebook)"),
+    ("https://rss.app/feeds/dTB5ds4ICOCACCwj.xml",   "OneSpartanburg, Inc. (Facebook)"),
+    ("https://rss.app/feeds/9LvxocD02Yp8KSDH.xml",   "Johnston Design Group (Facebook)"),
+    ("https://rss.app/feeds/Q3es47cv2kKbmTvN.xml",   "SeamonWhiteside (Instagram)"),
+    ("https://rss.app/feeds/O04e2vkehBq6O3w4.xml",   "Strong Towns Spartanburg (Instagram)"),
+    # Direct RSS feeds
+    ("https://www.wspa.com/feed/",                    "WSPA 7News"),
+    ("https://upstatebusinessjournal.com/feed/",      "Upstate Business Journal"),
     ("https://www.cityofspartanburg.org/RSSFeed.aspx?ModID=64&CID=All-0",
      "City of Spartanburg News"),
     ("https://www.cityofspartanburg.org/RSSFeed.aspx?ModID=54&CID=All-0",
