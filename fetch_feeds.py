@@ -145,7 +145,7 @@ FACEBOOK_PAGES = [
     ("johnstondesigngroup",     "Johnston Design Group"),
 ]
 
-def scrape_facebook(page_name, source_name, pages=2):
+def scrape_facebook(page_name, source_name, pages=5):
     print(f"Fetching Facebook: {source_name} (@{page_name})")
     try:
         from facebook_scraper import get_posts
@@ -178,12 +178,10 @@ def scrape_facebook(page_name, source_name, pages=2):
 # ── RSS FEEDS ────────────────────────────────────────────────────────────────
 
 RSS_FEEDS = [
-    # Substack API endpoint works where /feed blocks bots
-    ("https://walkingspartan.substack.com/api/v1/posts?limit=25", "Walking Spartan Substack"),
-    ("https://upstatebusinessjournal.com/feed/",                   "Upstate Business Journal"),
-    ("https://www.postandcourier.com/spartanburg/local/feed/",     "Post & Courier Spartanburg"),
-    ("https://www.wspa.com/feed/",                                  "WSPA 7News"),
-    ("https://www.goupstate.com/search/?q=spartanburg&f=rss",      "GoUpstate"),
+    ("https://upstatebusinessjournal.com/feed/",    "Upstate Business Journal"),
+    ("https://www.wspa.com/feed/",               "WSPA 7News"),
+    ("https://www.goupstate.com/rss/news/",       "GoUpstate / Herald-Journal"),
+    ("https://www.postandcourier.com/search/?q=spartanburg&f=rss", "Post & Courier Spartanburg"),
 ]
 
 def parse_feed(url, source_name, retries=3):
