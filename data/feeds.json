@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T17:14:56.730578+00:00",
-  "item_count": 27,
+  "generated": "2026-05-31T17:43:41.411630+00:00",
+  "item_count": 130,
   "cutoff_days": 35,
   "items": [
     {
@@ -9,6 +9,13 @@
       "published": "2026-05-31T16:22:33",
       "description": "The trend has been linked to the deaths of at least two teenagers.",
       "source": "WSPA 7News"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1988245",
+      "published": "2026-05-31T16:13:03",
+      "description": "hi new here. I don't understand why they built this thing downtown. I can see this residential style being built in 1989 or out in the suburbs but this was a missed opportunity to fit into the character of Daniel Morgan Ave, where Blue Moon Bodega has a different vibe.",
+      "source": "Urban Planet Spartanburg"
     },
     {
       "title": "Fire department, Hazmat team respond to fire at Spartanburg County warehouse",
@@ -179,6 +186,13 @@
       "source": "WSPA 7News"
     },
     {
+      "title": "On the Move: Justin Chastain",
+      "link": "https://upstatebusinessjournal.com/on-the-move/justin-chastain/",
+      "published": "2026-05-30T01:00:34",
+      "description": "Justin Chastain was appointed to the Ronald McDonald House Charities of the Carolinas\u2019 board of directors. The post On the Move: Justin Chastain appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
       "title": "New South Carolina UTV law: Police clear up confusion",
       "link": "https://www.wspa.com/news/local-news/new-south-carolina-utv-law-police-clear-up-confusion/",
       "published": "2026-05-29T21:47:02",
@@ -191,6 +205,713 @@
       "published": "2026-05-29T20:52:20",
       "description": "Early voting is heating up across South Carolina as election officials report a record number of early ballots cast for a June primary election.",
       "source": "WSPA 7News"
+    },
+    {
+      "title": "On the Move: Jane Weaver",
+      "link": "https://upstatebusinessjournal.com/on-the-move/jane-weaver/",
+      "published": "2026-05-29T20:00:35",
+      "description": "Jane Weaver was appointed to the Ronald McDonald House Charities of the Carolinas\u2019 board of directors. The post On the Move: Jane Weaver appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "On the Move: Nan Perry",
+      "link": "https://upstatebusinessjournal.com/on-the-move/nan-perry/",
+      "published": "2026-05-29T15:00:46",
+      "description": "Nan Perry joined the Greenville Chamber as an investor development manager. The post On the Move: Nan Perry appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "On the Move: Anna-Grace Galloway",
+      "link": "https://upstatebusinessjournal.com/on-the-move/anna-grace-galloway-2/",
+      "published": "2026-05-29T00:00:26",
+      "description": "Anna-Grace Galloway was promoted to marketing and communications manager with Greenville Chamber. The post On the Move: Anna-Grace Galloway appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "On the Move: Matthew Carter",
+      "link": "https://upstatebusinessjournal.com/on-the-move/matthew-carter/",
+      "published": "2026-05-28T19:00:47",
+      "description": "Matthew Carter joined Aline Capital\u2019s multifamily team as associate advisor. The post On the Move: Matthew Carter appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "On the Move: Kim Silver",
+      "link": "https://upstatebusinessjournal.com/on-the-move/kim-silver/",
+      "published": "2026-05-28T14:00:32",
+      "description": "Kim Silver was named dean of the School of Business and Computer Technology at Greenville Technical College. The post On the Move: Kim Silver appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "The Motley Fool: Fixed income vs. equity income",
+      "link": "https://upstatebusinessjournal.com/business-news/the-motley-fool-fixed-income-vs-equity-income/",
+      "published": "2026-05-28T13:46:16",
+      "description": "Over many decades, stocks have generally outperformed bonds, so consider favoring the stock market for most of your long-term dollars. The post The Motley Fool: Fixed income vs. equity income appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "On the Move: Joanna Switzer",
+      "link": "https://upstatebusinessjournal.com/on-the-move/joanna-switzer/",
+      "published": "2026-05-27T23:00:17",
+      "description": "Joanna Switzer was promoted to operations coordinator with Colliers | South Carolina. The post On the Move: Joanna Switzer appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "On the Move: Kat Waddell",
+      "link": "https://upstatebusinessjournal.com/on-the-move/kat-waddell/",
+      "published": "2026-05-27T18:00:19",
+      "description": "Kat Waddell was promoted to operations specialist with Colliers | South Carolina. The post On the Move: Kat Waddell appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "New to the Street: Local Crust",
+      "link": "https://upstatebusinessjournal.com/new-to-the-street/local-crust/",
+      "published": "2026-05-27T16:00:55",
+      "description": "Local Crust is a family-owned restaurant that offers handcrafted pizzas, hot subs, salads and pastas made to order. The post New to the Street: Local Crust appeared first on UPSTATE BUSINESS JOURNAL .",
+      "source": "Upstate Business Journal"
+    },
+    {
+      "title": "Strong Towns Spartanburg is hosting a group bike ride called Pedal Burg \ud83c\udf3c! Join us at Fretwell on Wednesday, June 17th ...",
+      "link": "https://www.instagram.com/p/DYkpRMHIw9n",
+      "published": "2026-05-20T19:41:30",
+      "description": "Strong Towns Spartanburg is hosting a group bike ride called Pedal Burg \ud83c\udf3c! Join us at Fretwell on Wednesday, June 17th at 6:30 pm\n\nWe'll start the ride at Fretwell, go through the route twice, and then end back at Fretwell. The ride takes roughly 15-20 minutes and we will be going at a leasurely pace. \nChildren are more than welcome to join!\n\nThe reasons we are hosting a group bike ride:\n1. There is safety in numbers. Having a bunch of people biking at the same time is generally safer around car",
+      "source": "Strong Towns Spartanburg (Instagram)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1987350",
+      "published": "2026-05-20T11:14:38",
+      "description": "",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1987179",
+      "published": "2026-05-19T03:14:17",
+      "description": "ohhhh I think you did but my brain did not connect",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1987158",
+      "published": "2026-05-18T22:46:36",
+      "description": "I thought I posted about this, but maybe not.  I saw in the UBJ (https://upstatebusinessjournal.com/deal-makers/dealmakers-notable-commercial-real-estate-transactions-october-december-2025/ under Pintail) that it had been leased to Hub City Hospitality LLC; which is the group behind Flock Shop, Willy Taco, Fr8 Yard.  Not sure what they have planned for the space, though.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1987123",
+      "published": "2026-05-18T17:52:29",
+      "description": "I haven\u2019t heard anything.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1987115",
+      "published": "2026-05-18T17:19:12",
+      "description": "Have you heard any updates on this? I keep being reminded of it being leased when I bike by and how I have not seen anything about what will be there next. In a perfect world, I would rather that and the Papa's next to it being redeveloped but alas.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986999",
+      "published": "2026-05-16T16:36:56",
+      "description": "Quick pic from top of the garage:",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Thank you to everyone who came to the meeting last night! We had a lot of fun talking about the ways we have been involv...",
+      "link": "https://www.instagram.com/p/DYVZTCvFLlb",
+      "published": "2026-05-14T21:33:15",
+      "description": "Thank you to everyone who came to the meeting last night! We had a lot of fun talking about the ways we have been involved in local government and how we can get even more involved. We appreciate everyone sharing their insight and their passions and hope to see everyone at the next special edition meeting \ud83d\udeb2\n\n#strongtowns #strongtownsburg #strongtownsspartanburg",
+      "source": "Strong Towns Spartanburg (Instagram)"
+    },
+    {
+      "title": "Enjoy your time with GROWN",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036713083606819/",
+      "published": "2026-05-10T16:41:18",
+      "description": "Enjoy your time with GROWN FOLKS and GOOD EATS",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Mothers' Day Treats Delivered in",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036695363608591/",
+      "published": "2026-05-10T16:15:54",
+      "description": "Mothers' Day Treats Delivered in Spartanburg",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "When Dave Edwards stepped into his role as president and CEO at Greenville-Spartanburg International Airport (GSP) in 20...",
+      "link": "https://www.facebook.com/OneSpartanburgInc/posts/pfbid0j8uQZCypSSJL8ifwZfBJ1gYej5BJ1c5SsEoP7n7KxMTAUxxeLz7n7T1FjXBBv7Q5l",
+      "published": "2026-05-10T15:05:13",
+      "description": "When Dave Edwards stepped into his role as president and CEO at Greenville-Spartanburg International Airport (GSP) in 2009, the airport was much different than it is today. Now, GSP has solidified its place as an economic and tourism driver for the entire Upstate, having earned high praise as the Best Small Airport in North America four years in a row. https://chambervu.com/theonespring26/#p=42",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "Treat Mom to a sweet",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036640450280749/",
+      "published": "2026-05-10T14:58:31",
+      "description": "Treat Mom to a sweet treat today! Gelato, Sundae\u2019s, Baked Goods and more! Open 9 to 4 today!\n124 w Cherokee St. Chesnee",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Where are the single moms",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036617820283012/",
+      "published": "2026-05-10T14:26:54",
+      "description": "Where are the single moms eating at on Mother's day ? (Happy mothers day also!)",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "\u2764\ufe0fHappy Mothers Day Weekend\u2764\ufe0f We",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035690893709038/",
+      "published": "2026-05-10T13:20:09",
+      "description": "\u2764\ufe0fHappy Mothers Day Weekend\u2764\ufe0f\n\nWe have beautiful selection today.\n \nSpecials on the  menu today:\n\n-Assorted macarons\n\n-Strawberry Rhubarb Creme Brulee Danish\ud83e\udd50\n\n-Strawberry Chocolate Almond Croissant\ud83e\udd50\n\n-Ham & Smoked Gouda Croissant\ud83e\udd50\n\n-Fig and Gouda Pizza \ud83c\udf55\n\nAnd many more options....\n\nCome check us out! We'd love it, your mom will too\u2764\ufe0f\n\n\ud83c\udf70Cake \ud83e\udd50Pastries \ud83c\udf55 Pizza \ud83c\udf5eBread \u2615\ufe0fCoffee",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Happy Mother's Day Weekend!!! \ud83d\udc90",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035792080365586/",
+      "published": "2026-05-10T13:19:44",
+      "description": "Happy Mother's Day Weekend!!! \ud83d\udc90 \n\nJoin us this Sunday the 10th from 12pm to 4pm for some good eatin... we have Cube Steak @ 280 Whitney Rd. Spartanburg SC 29303.\n\nMenu below \u2764\ufe0f",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Missed us today?\ud83d\ude4f \ud83d\udea8We are",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035836040361190/",
+      "published": "2026-05-10T13:19:42",
+      "description": "Missed us today?\ud83d\ude4f\n\n\ud83d\udea8We are open on Mother's Day\u2757\ufe0f\n\n\ud83d\udd51 9am- 1pm\n\n\ud83d\udccdThe Bread Guy \n4019b Parris Bridge Rd \nBoiling Springs,  SC 29316\nUSA\n\n#strawberry #rhubarb #mom #mothersday #bakerylove",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Happy Mother\u2019s Day Everyone!! Starting",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036310190313775/",
+      "published": "2026-05-10T13:19:31",
+      "description": "Happy Mother\u2019s Day Everyone!! Starting today we will be serving meat and 3 vegetables or 4 vegetable plate. We open at 11am and will be closing at 430pm. So you want some good homemade food, just come on by and enjoy. We look forward to seeing you. #hubcitygrill #meatandvegetables #mothersday",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "I thank God for my",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036556836955777/",
+      "published": "2026-05-10T13:19:17",
+      "description": "I thank God for my daughter from another mother, Shannon Ford. She is always helpful to me. If I ever need anything she is always there. Here is her Mother's Day throwback, and I know she will get me. But I love all of my girls and boy, Rachel Turner, Eliza beth and my son, Keenan Sarratt and Evelena Banesha Frazier. Happy Mother's Day to all of you.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Happy Mothers day to all",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036474783630649/",
+      "published": "2026-05-10T11:06:14",
+      "description": "Happy Mothers day to all the beautiful mothers out there. Join us today for our mothers day specials or any of our other great options from our huge everyday menu. We will only be open 11-3 today so we can spend time with the special mother yall love so much up front. Hope to see yall soon. \nSheltons Smoking Butts BBQ and Catering LLC at Joes Lake SugarTit, SC \n155 LAKE PL GREER SC 29651\n11-3 TODAY",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Spartanburg gets ready for a",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036455773632550/",
+      "published": "2026-05-10T10:38:08",
+      "description": "Spartanburg gets ready for a day of entertainment and great food.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Looking for a location for",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036121593665968/",
+      "published": "2026-05-10T01:34:56",
+      "description": "Looking for a location for a low key adult birthday gathering. Doesn't need to be a private room, but need seating/gathering space for 10-15 people.  Flexible budget & menu, looking for Spartanburg or Middle Tyger area specifically.  Would be in the last two weeks of May either after work or on a weekend.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Name a better place than",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036078483670279/",
+      "published": "2026-05-10T00:13:43",
+      "description": "Name a better place than The Hare and the Hound for a prime rib...I'll wait \ud83d\ude09",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Just curious\u2026is this what Moo",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036074063670721/",
+      "published": "2026-05-10T00:05:06",
+      "description": "Just curious\u2026is this what Moo Goo Gai Pan chicken supposed to look like? I removed it from the vegetables because it just wasn\u2019t looking edible.  I did call the restaurant no real resolution.  I have one.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "I went to La Choza",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036068363671291/",
+      "published": "2026-05-09T23:53:23",
+      "description": "I went to La Choza and had some very bad Texas Fajitas.  There was absolutely no seasoning used at all.  Which is sad because the quality of  meat was great!   FYI.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Don't forget to get your",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2036052253672902/",
+      "published": "2026-05-09T23:20:20",
+      "description": "Don't forget to get your FREE spicy chicken sandwich tomorrow and every Sunday from 12p-3pm at any Whataburger location.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986524",
+      "published": "2026-05-09T22:05:26",
+      "description": "Fidelity Bank progress:",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "The pizza from this food",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035993657012095/",
+      "published": "2026-05-09T21:22:18",
+      "description": "The pizza from this food truck is out of this world!\nSet up at Callous Moto Coffee Garage at 6pm tonight!\nLive music starts at 7pm!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Phil\u2019s Steakhouse in Pacolet",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035990790345715/",
+      "published": "2026-05-09T21:16:29",
+      "description": "Phil\u2019s Steakhouse in Pacolet",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Here Two Baked Blondes ,",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035951370349657/",
+      "published": "2026-05-09T19:59:43",
+      "description": "Here Two Baked Blondes , our Biscoff Cake is the perfect blend of warm spice and creamy cookie butter goodness. Made with a soft cinnamon cake, each layer is filled with rich Biscoff frosting, melted Biscoff butter between the layers, and crumbled Biscoff cookies for the perfect sweet crunch. Finished with more creamy frosting and topped with crumbled Biscoff cookies, this cake is rich, flavorful, and made for true Biscoff lovers.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Hey just needing an update",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035945723683555/",
+      "published": "2026-05-09T19:49:40",
+      "description": "Hey just needing an update on Hickory Tavern been a min since we have been there.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Where\u2019s your fav pho shop?",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035893597022101/",
+      "published": "2026-05-09T18:23:05",
+      "description": "Where\u2019s your fav pho shop?  #foodie",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Happy Mother's day! We are",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035884437023017/",
+      "published": "2026-05-09T18:06:49",
+      "description": "Happy Mother's day!\nWe are open regular hours!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "MUSTARD ON THE BEEF",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035863753691752/",
+      "published": "2026-05-09T17:33:40",
+      "description": "MUSTARD ON THE BEEF",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Looking for recommendations for a",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035832180361576/",
+      "published": "2026-05-09T16:45:58",
+      "description": "Looking for recommendations for a local hot dog cart/vendor for a small family wedding in Inman near the lake on Friday, May 22nd!\n\nWe\u2019ll have around 30 people, & are hoping to have dinner served sometime around 7:00\u20138:00ish. Really just looking for someone who could set up for about that hour & serve hot dogs & the toppings. (If hamburgers are other things are options, that\u2019s just an added bonus.) We can absolutely handle sides ourselves if needed!\n\nThis is a very laid back backyard sunset gath",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Me da miedo de saber",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2035717810373013/",
+      "published": "2026-05-09T13:55:41",
+      "description": "Me da miedo de saber cuanto sera el total \ud83d\ude31\ud83d\ude31\ud83d\ude30\ud83d\ude30 #taqueriaelpotosinospartanburgsc #emprendimiento",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986509",
+      "published": "2026-05-09T13:22:19",
+      "description": "The Artists Collective is a great asset for the city.  Whenever we go, I feel like I am no longer in the burg.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "City Council will meet Monday, May 11th at 5:30 PM at the Spartanburg County Council Chambers, 366 N Church St. As a rem...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid02StxxxjrPyqNjoMekHVKfSrowRr8NMievmp1wL9yjAR1yqAouanMyYWuMtzJHq8akl",
+      "published": "2026-05-08T19:59:02",
+      "description": "City Council will meet Monday, May 11th at 5:30 PM at the Spartanburg County Council Chambers, 366 N Church St. As a reminder, those wishing to speak during the public comment portion of any Spartanburg City Council meeting must complete and submit the following form located on the city website in advance, no later than 12 p.m. (noon) on the date of the meeting in question: https://www.cityofspartanburg.org/\u2026/City-Council-Citizen-Ap\u2026. Those who are unable to fill out the form may contact the Cit",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Downtown Spartanburg\u2019s dinner plans just got even better. \ud83c\udf77\ud83c\udf5d Help us welcome @leporeristorante to downtown Spartanburg...",
+      "link": "https://www.facebook.com/downtownspartanburgsc/posts/pfbid02MMzmTs3ffEf3ZBRSwekXobM8tbwdkXSAi4PAb6vxj43ZJBLyhhMv1Xh4WkoZt99wl",
+      "published": "2026-05-08T18:49:56",
+      "description": "Downtown Spartanburg\u2019s dinner plans just got even better. \ud83c\udf77\ud83c\udf5d Help us welcome @leporeristorante to downtown Spartanburg! From fresh pasta dishes to desserts that deserve their own moment, this new spot is already giving us plenty of reasons to make another reservation. Next time you\u2019re downtown, add this one to your list and give them a warm Spartanburg welcome. \u2728 \ud83d\udccd116 Magnolia St, Spartanburg, SC 29306 #downtownspartanburg #experiencespartanburg",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "Starting this weekend, the Hub City Farmers' Market will begin offering a \"Second Sunday\" Market in addition to their re...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid0YtN3hQvYiYjYebMupNtvmBw29Ey4dg3mK3ZS9gpj7LJKWmxShrm46Vn5R7kPDPuQl",
+      "published": "2026-05-08T14:44:00",
+      "description": "Starting this weekend, the Hub City Farmers' Market will begin offering a \"Second Sunday\" Market in addition to their regular Saturday market. \ud83e\udd55\ud83c\udf53 The second Sunday markets will take place from 11 AM until 2 PM downtown on Morgan Square every month on the second Sunday from May through October! Sundays just got even better in downtown Spartanburg. Join us on Morgan Square for a vibrant, producer only market filled with local flavor, fresh goods, and community energy!\ud83d\udc69\u200d\ud83c\udf3e From farmers and bakers to",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Honoring a legacy that continues to shape our community \ud83e\udd0d We\u2019re excited to celebrate the groundbreaking of the Kenny Mi...",
+      "link": "https://www.instagram.com/p/DYDT-LWH7yz",
+      "published": "2026-05-07T21:00:23",
+      "description": "Honoring a legacy that continues to shape our community \ud83e\udd0d\n\nWe\u2019re excited to celebrate the groundbreaking of the Kenny Mile Trail, a 1.25-mile multi-use path honoring our Founder, Kenny Seamon\u2019s, legacy and years of dedication to the Town of Mount Pleasant community. Designed to better connect the community, the trail will expand access for pedestrians and cyclists across the area.\n\nThis is just the beginning of many community-focused trail projects to come in the Lowcountry, and we\u2019re proud to b",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "This year\u2019s CRIT was one for the books! We\u2019re still thinking about the speed, the cowbells, the downtown energy, and the...",
+      "link": "https://www.facebook.com/reel/1707103960638691/",
+      "published": "2026-05-07T16:35:40",
+      "description": "This year\u2019s CRIT was one for the books! We\u2019re still thinking about the speed, the cowbells, the downtown energy, and the way Spartanburg showed up for the fastest night of the year \ud83d\udeb4 Special thank you to Blue Moon Specialty Foods and Cribbs Kitchen for the great bites throughout the evening! If you were there last Friday night, drop your favorite moment below \u2b07\ufe0f Whether it was the races, the people-watching, the food, the atmosphere, or supporting a good cause, we want to hear it! #experiencespa",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "Music on Main is happening tonight on Morgan Square from 5:30 PM-8:30 PM! \ud83c\udfb6 Tonight's band is Soul Intent.  Next week's...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid029pDBHfcn8Xbe6DHccEKYVV85gf1c5SV5gnRurcTnvwo2HiupYbBepLT6rJ2iCSBsl",
+      "published": "2026-05-07T16:20:53",
+      "description": "Music on Main is happening tonight on Morgan Square from 5:30 PM-8:30 PM! \ud83c\udfb6 Tonight's band is Soul Intent. Next week's Music on Main will feature Rock and Roll Reunion! #MusicOnMain #MorganSquare #DowntownSpartanburg #SpartanburgSC #LoveWhereYouLive #AlwaysDoing #SparkleCity #HubCity",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Join us May 13th for our next meeting! We'll be discussing the upcoming road diet, open board positions in Spartanburg, ...",
+      "link": "https://www.instagram.com/p/DYCobM7jrV8",
+      "published": "2026-05-07T14:39:54",
+      "description": "Join us May 13th for our next meeting! We'll be discussing the upcoming road diet, open board positions in Spartanburg, and the plans for next month's meeting looking a little different than normal \ud83d\udeb2\n\nWe hope to see you there!",
+      "source": "Strong Towns Spartanburg (Instagram)"
+    },
+    {
+      "title": "Please note fireworks will take place at Fifth Third Park for Spartanburg Community College's graduation ceremony on Wed...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid0i8UYT5H6EyUFetMsr5SNcY6D6GGwnnQUTqCNj7GmJ6q2nesDcCQRnH7tDNeGgu6Al",
+      "published": "2026-05-07T13:37:35",
+      "description": "Please note fireworks will take place at Fifth Third Park for Spartanburg Community College's graduation ceremony on Wednesday, May 13th. Community Notice: SCC Graduation Event & Fireworks 5.13.26 \ud83c\udf86",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "As seen earlier this week in InTheBurg, Fretwell Spartanburg will host A Concert for Hope, a fundraiser benefiting A Pla...",
+      "link": "https://www.facebook.com/OneSpartanburgInc/posts/pfbid02cFrA1jMsDyXNQyYvYTge6bHmWP64eQpbxsSsFX82EBRa2fpecS3Vn6JzJsLV5hF9l",
+      "published": "2026-05-07T12:01:40",
+      "description": "As seen earlier this week in InTheBurg, Fretwell Spartanburg will host A Concert for Hope, a fundraiser benefiting A Place to Call Home - Spartanburg County's collaborative effort to reduce homelessness and housing instability. Enjoy a spring evening, good music, and support a good, local cause at the same time.",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "\ud83e\ude8f The Town has officially broken ground on the Kenny Mile Trail! \ud83c\udf89 The Kenny Mile Trail is an approximately 1.25-mile ...",
+      "link": "https://www.instagram.com/p/DYAjKMylq9r",
+      "published": "2026-05-06T19:15:23",
+      "description": "\ud83e\ude8f The Town has officially broken ground on the Kenny Mile Trail! \ud83c\udf89 \n\nThe Kenny Mile Trail is an approximately 1.25-mile multi-use path that will connect the existing Park West Trail system to Porcher\u2019s Bluff Road, while also linking to the recently completed All American Boulevard shared-use path. Designed to improve safe, separated access for pedestrians and cyclists, the trail will run largely within the Mount Pleasant Waterworks easement and will be offset more than 60 feet from U.S. Highway ",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "Celebrating our favorite bank and 80 years of their positive contribution to our community!  Stay tuned here for their n...",
+      "link": "https://www.facebook.com/reel/1330575742261157/",
+      "published": "2026-05-06T18:58:13",
+      "description": "Celebrating our favorite bank and 80 years of their positive contribution to our community!  Stay tuned here for their next branch soon to open in Simpsonville. #OnTheBoards #BankOfTravelersRest #JohnstonDesignGroup #JDG #NewProject #Architecture #TravelersRest #Simpsonville #UpstateSC #GreenvilleCounty #CommunityBanking #RestorativeDesign",
+      "source": "Johnston Design Group (Facebook)"
+    },
+    {
+      "title": "We're thrilled to join our friends at OneSpartanburg, Inc.  in welcoming Lepore Ristorante Italiano to Downtown Spartanb...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid02eTWo5R1JefZ3urkPmC8GtC1cpLjoKUNwhqgghD3gTA3sRyCefBVKBToGU65XtJa3l",
+      "published": "2026-05-06T16:54:11",
+      "description": "We're thrilled to join our friends at OneSpartanburg, Inc.  in welcoming Lepore Ristorante Italiano to Downtown Spartanburg! Lepore is open Tuesday through Saturday for lunch from 12 PM-2:30 PM and Tuesday through Saturday for dinner starting at 5 PM. Lepore offers scratch-made classic Italian cuisine and impeccable service in an upscale atmosphere. Be sure to check out their new location at 116 Magnolia Street!",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "It\u2019s Wine Wednesday, y\u2019all! \ud83c\udf77 @bondstreetwinesspartanburg is calling - grab a glass (or two), take a seat, and enjoy th...",
+      "link": "https://www.facebook.com/downtownspartanburgsc/posts/pfbid0avxvZ3HbFCRcHk1kXbhuC9bbXprGuvxQK4SFdQ6vzGubLSov7bioE575yYAZRCFwl",
+      "published": "2026-05-06T15:40:40",
+      "description": "It\u2019s Wine Wednesday, y\u2019all! \ud83c\udf77 @bondstreetwinesspartanburg is calling - grab a glass (or two), take a seat, and enjoy the Morgan Square views. Trust us, it\u2019s a whole vibe \ud83e\udd0c\ud83c\udffb (pc @bearandmason)",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "Mark your calendars for Spartanburg Northside Development Group's Block Party coming up on Saturday, May 16th from 5 PM-...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid0bmtccbmXKKsuTZp7U6wdmthGSTEYamQSTbeMV3GGUUxkaW6UG429yw9LJFGcb327l",
+      "published": "2026-05-06T13:59:41",
+      "description": "Mark your calendars for Spartanburg Northside Development Group's Block Party coming up on Saturday, May 16th from 5 PM-8 PM at 498 Howard Street. This FREE, family-friendly celebration offers delicious food, giveaways, music, hair services for children, and much more! \ud83c\udf89 The Countdown is On! \ud83c\udf89 We\u2019re getting closer to one of our favorite days of the year \u2014 the Northside Block Party! Join us for an evening full of fun, connection, and community celebration. \ud83d\udc99 \u2728 What to expect: \ud83c\udf54 Delicious food \ud83c\udfb6 G",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986169",
+      "published": "2026-05-05T21:57:17",
+      "description": "OneSpartanburg is doing a good bit of \"new media\" promotion, bringing in social media influencers / bloggers from other cities who then post about the experience to their followers (who will hopefully check us out).  They've also been doing a big sports tourism push for years.  We constantly have youth softball tournaments, and we're getting smaller NCAA events (we had a D1 regional cross country meet a few years ago, and the Big South softball tournament is this week at USC Upstate).  These all",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986165",
+      "published": "2026-05-05T21:17:06",
+      "description": "I think Spartanburg would be well served by further establishing a 'sense of place' (and, this seems to be deliberately happening right now). Morgan Square is a huge asset. If the city can execute the vision well, this could create the defining image that intrigued people and lives in their minds (in a way that a simple green space + clocktower did not). Personally, I think Spartanburg would be smart to embark on a Greenville-focused marketing campaign. Not in a rival, snarky kind of way (if the",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986163",
+      "published": "2026-05-05T20:37:12",
+      "description": "I agree with the planetarium and I think a revitalized Barnett Park will be nice.   We need something downtown that is always an attraction like the falls and the bridge in Greenville.  The stadium is an attraction on game day, the planetarium has maybe 2 shows a day, and Barnett Park may have a couple of shows a month if we are lucky.  There needs to be something that is always an attraction. I like Barnett Park, but unless you live here, you could spend all day and never realize it is here.  T",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Who else looks forward to \"hanging basket season\" each year? \ud83c\udf3c The weather is gorgeous, the baskets are blooming, and w...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid02pny6RPU2npH75wjZLHzPrj3EiwXtt5uRf72EPBfHRJQ15hFmvH1VLkTDtzMMXTxml",
+      "published": "2026-05-05T20:30:54",
+      "description": "Who else looks forward to \"hanging basket season\" each year? \ud83c\udf3c The weather is gorgeous, the baskets are blooming, and we're so excited to welcome a fun, event-filled spring and summer in Downtown Spartanburg! Thanks to the City's Grounds Maintenance team for hanging and maintaining our baskets.",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986159",
+      "published": "2026-05-05T20:15:29",
+      "description": "I will say this also led me to read a lot of 2007-2010 posts on this topic and wow, so much has shifted. It was especially interesting to read a version of the likely to happen East Main Road Diet dying back then. I always enjoy diving back in time on this forum. Lots of folks who love cities and love Spartanburg and have literally been on here discussing these things for almost twenty years. Lots of lessons to be learned and inspiration to be found in this forum's backlog.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986158",
+      "published": "2026-05-05T20:07:26",
+      "description": "As was stated: Baseball stadium and planetarium. We now also have a proposal to make Barnett Park a better live music venue. Having the Fairfield Inn and Marriott within easy walking distance to the park is a plus. Wish the auditorium 'Hall' would book more bands that are similar to those at the Orange Peel in Asheville.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986156",
+      "published": "2026-05-05T20:03:45",
+      "description": "I think Greenville has a huge advantage due to Falls Park in this area, but I think that we are getting there. The new minor league team and the new planetarium are pieces of the puzzle, and I think the next piece will be investing into the \"cultural district\" (starting with the Barnet Park improvements and going from there). It is a mix between adding new things to our city, as well as refining and investing in what we already have.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986149",
+      "published": "2026-05-05T19:13:58",
+      "description": "I think the planetarium has or will boost downtown visitation.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1986140",
+      "published": "2026-05-05T17:26:43",
+      "description": "This may not be the correct spot for this post.  I was going back and reading some of the older Spartanburg topics and posts from the 2005-2010 era.  I tried to respond, but the post had been archived, so I could not respond.  The one I was reading was from June 2010, (so almost 16 years ago) and it has me thinking.  The topic was tourism and things that could be built in downtown Spartanburg to encourage people to come downtown. Other than the ballpark has anything been built downtown in the la",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Paddles up for a purpose. \ud83d\udef6\ud83d\udc9b Over the weekend, MPS Paddlers joined 24 teams at Prisma Health\u2019s 20th anniversary Dragon...",
+      "link": "https://www.facebook.com/mpsarchitecture/posts/pfbid02TMwPLd5E61wgype1KcwWJdNPRSGyPYvjB88fPyVQrJstoR8t8SztHfcqKiU3BxNul",
+      "published": "2026-05-05T15:09:47",
+      "description": "Paddles up for a purpose. \ud83d\udef6\ud83d\udc9b Over the weekend, MPS Paddlers joined 24 teams at Prisma Health\u2019s 20th anniversary Dragon Boat Upstate Festival on Lake Hartwell, raising funds to support local cancer patients and advance cancer research through the Prisma Health Cancer Institute\u2019s Center for Integrative Oncology and Survivorship program. Teams took part in a mini parade, walking alongside cancer patients and in memory of loved ones who have been lost. It was a powerful reminder of why this event ma",
+      "source": "McMillan Pazdan Smith (Facebook)"
+    },
+    {
+      "title": "Our Neighborhood Services Department\u2019s Disaster Assistance Program funds have helped to repair over 80 disaster-related...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid0i8aoXa7Zem2yBMy1iHttGaLMeE5DxUyUsqNnpfVqr2kwyvZJyNsuCpnyXj511PAMl",
+      "published": "2026-05-05T14:05:25",
+      "description": "Our Neighborhood Services Department\u2019s Disaster Assistance Program funds have helped to repair over 80 disaster-related home repairs in the City in the 12 months since the program began. Repairs include tree removal, roof repairs, new roofs, or related work associated with natural disasters (targeting properties significantly impacted by Hurricane Helene in 2024 and other major storms). City residents who have experienced hurricane or natural disaster impacts to their homes and meet income requi",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "OneSpartanburg, Inc.\u2019s talent solutions team was thrilled to partner with beloved community institution Wade's Restauran...",
+      "link": "https://www.facebook.com/OneSpartanburgInc/posts/pfbid02PBAVN6JEKk9uNNihCwfbR6otHenpNr5eTLCGfRfF4PSWXU569ek6pgCWSQsuChaul",
+      "published": "2026-05-05T14:02:19",
+      "description": "OneSpartanburg, Inc.\u2019s talent solutions team was thrilled to partner with beloved community institution Wade's Restaurant for the third-consecutive year to award the Wade\u2019s Culture of Excellence Scholarship, dedicated to helping Wade\u2019s team members continue their education. This year\u2019s recipient, Louisa Sterritt, plans to attend the University of South Carolina Upstate. Congrats, Louisa and both our organization and Wade\u2019s wish you the best as a Spartan! Wade's Jr.",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "We celebrated 10 years of our Summerville office Wednesday evening at Ashley River Park, one of our team\u2019s most notable ...",
+      "link": "https://www.instagram.com/p/DX7llxpERFH",
+      "published": "2026-05-04T21:00:25",
+      "description": "We celebrated 10 years of our Summerville office Wednesday evening at Ashley River Park, one of our team\u2019s most notable projects. It was a great night with clients and friends, live music, and plenty of moments that made the milestone feel extra special as we continue building on everything this team has accomplished. Celebrating our people, our achievements, and the Summerville community that\u2019s been such a big part of it all.\n\n@dorchestercountyparks \n\u00a0\n#SWpeople #10thanniversary #summervillesc",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "Still dreaming about this past weekend\u2019s Cribb\u2019s Burger Cook-Off \ud83c\udf54\ud83c\udf74\u2728 If you made it out to the cook-off, let us know i...",
+      "link": "https://www.facebook.com/downtownspartanburgsc/posts/pfbid0sH1vNhDpuNwqaVeyNLHcFyYp3ENzLPi4SkrSMrb6FXuHTxS9n9D9FpLQiURMcc2Ll",
+      "published": "2026-05-04T19:10:07",
+      "description": "Still dreaming about this past weekend\u2019s Cribb\u2019s Burger Cook-Off \ud83c\udf54\ud83c\udf74\u2728 If you made it out to the cook-off, let us know in comments and tell us which burgers you tried! \u2b07\ufe0f #downtownspartanburg #experiencespartanburg #cribbsburgercookoff",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "OneSpartanburg, Inc. Posted",
+      "link": "https://www.facebook.com/events/990493399998522/",
+      "published": "2026-05-04T14:57:31",
+      "description": "",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "\u201cBy combining long-term housing projects like BridgeWay Village with increased prevention and education, A Place to Call...",
+      "link": "https://www.facebook.com/OneSpartanburgInc/posts/pfbid0feRenpDxN29BuT7NLGJuugiGKFA4v2nUyFB7139WZu1X2vu6gM8NxD9k9pYgMXMrl",
+      "published": "2026-05-04T14:00:22",
+      "description": "\u201cBy combining long-term housing projects like BridgeWay Village with increased prevention and education, A Place to Call Home is working to ensure that for local neighbors in crisis, the path back to a front door of their own is shorter than ever before.\u201d https://chambervu.com/theonespring26/#p=38 City of Spartanburg, SC Spartanburg County United Way of the Piedmont Spartanburg Regional Spartanburg Housing Spartanburg Faith Initiative to End Child Poverty",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "May is Asian American Pacific Islander Heritage Month, a month in which we celebrate the rich history and contributions...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid0SdEkhNEQgryEr7w4gBghstN4Cbo6Z1UrUFaW9YNE6qYfW7rAyr96diAro75Xf8Phl",
+      "published": "2026-05-04T13:47:37",
+      "description": "May is Asian American Pacific Islander Heritage Month, a month in which we celebrate the rich history and contributions of a broad group of individuals from across the Asian continent and Pacific islands. AAPI heritage was initially recognized by Congress in 1979 with the first 10 days in May denoted as \"Asian/Pacific American Heritage Week.\" In 1990, Congress passed a law designating the entire month of May as Asian/Pacific American Heritage Month. May was specifically selected, as it marks the",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Welcome Isabella Alamilla to SW+! \ud83c\udf89 A Civil Designer II in our Charlotte office, Isabella brings experience in environm...",
+      "link": "https://www.instagram.com/p/DX5VcKCjUa-",
+      "published": "2026-05-04T00:00:49",
+      "description": "Welcome Isabella Alamilla to SW+! \ud83c\udf89\n\nA Civil Designer II in our Charlotte office, Isabella brings experience in environmental engineering and land development, with a passion for residential projects and growing the Carolinas.\n\nOutside of work, she enjoys live music, trying new restaurants, and volunteering at her local humane society. We\u2019re excited to have her on the team! \ud83d\udc4f\n\n#SWpeople #newhire #CivilDesigner",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "Spartanburg County high school seniors have ONE MORE WEEK left to get their essays in for our Juneteenth Essay Contest!...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid028ozueEWJGuoQEwCcdCeTzryTrtRra1jKrNPjigZazbumX46LLwJKzA8dW8PAUWrJl",
+      "published": "2026-05-01T13:45:21",
+      "description": "Spartanburg County high school seniors have ONE MORE WEEK left to get their essays in for our Juneteenth Essay Contest! The deadline to submit is Friday, May 8th at 5 PM. We're also thrilled to announce that thanks to our generous sponsors, we have increased the scholarship funds available to winners! \ud83c\udf93 \ud83c\udfc6 First Place will receive a $1,500 scholarship \ud83c\udfc6 Second Place will receive a $1,200 scholarship \ud83c\udfc6 Third Place will receive a $1,000 scholarship Please see our flyer & visit our website for full ",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Stand up and learn how to stand out by applying for the next class of Leadership Spartanburg. Gain insider insight into...",
+      "link": "https://www.facebook.com/OneSpartanburgInc/posts/pfbid09RPGaMaYLSfX1iogMvbfvLaPapKKRG418fHae6XMLadEnuiXFE3j7Hsmfyz3GDNFl",
+      "published": "2026-05-01T12:00:31",
+      "description": "Stand up and learn how to stand out by applying for the next class of Leadership Spartanburg. Gain insider insight into our community and unlock your potential during the 9-month curriculum that will showcase Spartanburg\u2019s momentum, challenges, future opportunities and much more. Fill out your application before June 1 at https://www.onespartanburginc.com/leadershipspartanburg.",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "A lot has changed at Cherokee Commerce Center 85. Concrete tilt panels are up, and steel is being erected. The 745,000-s...",
+      "link": "https://www.instagram.com/p/DXxXW1YiahT",
+      "published": "2026-04-30T21:43:38",
+      "description": "A lot has changed at Cherokee Commerce Center 85.\n\nConcrete tilt panels are up, and steel is being erected. The 745,000-square-foot expansion of Building 2 is quickly taking shape in Gaffney, S.C.\n\nOnce complete, the 1.3 million-square-foot facility will support First Solar\u2019s manufacturing operations and create more than 600 jobs.\n\nMore updates to come.\n\n#UpstateSC #IndustrialDevelopment #Manufacturing #I85Corridor\n\n@evansgeneralcontractors\n@waremalcomb\n@seamonwhiteside",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1985835",
+      "published": "2026-04-30T20:14:51",
+      "description": "Someone I was talking to about it tried to call it Spartanburg only iconic, historic monument. I did bring up the Daniel Morgan Statue (which I personally have no love for, don't get me wrong) and the Montgomery Building as two I would consider iconic and much more historic. I look forward to the move being done and it being an enhancement and the folks who haven't been downtown since the 80's to talk about downtown as if it is dead because the clocktower was taken, while most normal people enjo",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1985806",
+      "published": "2026-04-30T17:44:40",
+      "description": "I'm having a hard time understanding what all the clocktower fuss is all about.  I suppose the clock itself is historic but the tower surely isn't.  There's nothing about it that shouts history.  Nobody paid much attention to it while it stood in Morgan Square.  Finally, its not \"iconic\".   Moving it to Barnett Park makes good sense to me.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Music on Main is happening tonight on Morgan Square from 5:30 PM-8:30 PM! \ud83c\udfb6 Tonight's band is Back 9 Band! Next week's...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid0X7bQS4EvEyJsoDw8MbqKacoPSmvm9fPgZUgJyQ8ChqqfyeA6nKR6cMVmevEyQKC6l",
+      "published": "2026-04-30T17:01:19",
+      "description": "Music on Main is happening tonight on Morgan Square from 5:30 PM-8:30 PM! \ud83c\udfb6 Tonight's band is Back 9 Band! Next week's Music on Main will feature Soul Intent! #MusicOnMain #MorganSquare #DowntownSpartanburg #SpartanburgSC #LoveWhereYouLive #AlwaysDoing #SparkleCity #HubCity",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1985771",
+      "published": "2026-04-30T13:32:35",
+      "description": "I am curious as well.  Downtown desperately needs retail.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "On behalf of our organization, President & CEO Allen Smith was recognized as 2025-26 Business Partner of the Year by the...",
+      "link": "https://www.facebook.com/OneSpartanburgInc/posts/pfbid02xKv89nt7WzN2tNAA1BdSC1oAb1Vu8Kfj9inbt4kHZpDfP7bznUR98nYv3racLJ6el",
+      "published": "2026-04-30T13:30:35",
+      "description": "On behalf of our organization, President & CEO Allen Smith was recognized as 2025-26 Business Partner of the Year by the Daniel Morgan Technology Center. Throuhgout the past year, OneSpartanburg, Inc. has worked to secure higher funding levels for the DMTC, and worked with the Spartanburg Academic Movement  and industry partners to establish the SME PRIME program at the DMTC, creating customized manufacturing and engineering programs. Spartanburg County School District 3 Spartanburg School Distr",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "We've got multiple road closures through Saturday to support the Spartanburg Regional Criterium! \ud83d\udea7 Closures through Sat...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid02eVUiE82r17bG8kx95GiUAiLunzD92enjZXukww7WFkU4L39Q2RE7ShFpy7kq2T2Al",
+      "published": "2026-04-30T13:16:40",
+      "description": "We've got multiple road closures through Saturday to support the Spartanburg Regional Criterium! \ud83d\udea7 Closures through Saturday, May 2nd at 11 AM: -E Main St. from Converse to Church -Liberty St. from the Kennedy St. Parking Garage to Dunbar -Broad St. from Converse to Spring \ud83d\udea7 Closures starting tonight at 11 PM and lasting through Saturday, May 2nd at 1 AM: -Church St. from Kennedy to St. John -Converse St. from Kennedy to Dunbar -E Main St. from Dean to Converse Please note that northbound traffi",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1985766",
+      "published": "2026-04-30T12:47:13",
+      "description": "Im having trouble finding it, but several weeks ago it was mentioned that a big retail announcement was in the works for downtown. Does anyone have an update on that?",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "OneSpartanburg, Inc. Posted",
+      "link": "https://www.facebook.com/events/1302539365156696/",
+      "published": "2026-04-29T18:18:05",
+      "description": "",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "We're incredibly proud to celebrate the completion of Oak Grove at Blake Farm \u2014 a stunning new 55+ active adult communit...",
+      "link": "https://www.facebook.com/reel/2039251983602727/",
+      "published": "2026-04-29T15:01:27",
+      "description": "We're incredibly proud to celebrate the completion of Oak Grove at Blake Farm \u2014 a stunning new 55+ active adult community now welcoming residents in Wilmington, NC. From the rooftop lounge and saltwater pool to the golf simulator and firepit courtyard, every detail of this project was designed to honor the way this generation wants to live \u2014 actively, beautifully, and on their own terms. Projects like this don't happen without the right partners. A heartfelt thank you to our visionary client Tra",
+      "source": "Johnston Design Group (Facebook)"
+    },
+    {
+      "title": "OneSpartanburg, Inc. Posted",
+      "link": "https://www.facebook.com/events/26406672635627881/",
+      "published": "2026-04-29T13:06:32",
+      "description": "",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "The City of Spartanburg invites members of the public to review and offer comments on the DRAFT Fiscal Year 2026 Annual...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid02Bwj24i2NvL1YXKGZiPjb36hnJzTxqkiKZYZcxPtWNsh5snftdTPamRyrKPrHBSMpl",
+      "published": "2026-04-29T12:38:52",
+      "description": "The City of Spartanburg invites members of the public to review and offer comments on the DRAFT Fiscal Year 2026 Annual Action Plan through June 3rd, 2026. As recipients of federal grant funds from the US Department of Housing and Urban Development, the City will hold public hearings to discuss the submission of the Annual Action Plan for use of Community Development Block Grant and HOME Partnership funds. The draft copy of the Annual Action Plan may be downloaded from our website (https://www.c",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "\ud83c\udfc3\u200d\u2640\ufe0f Not everyone ran a marathon\u2026 but we still crushed 40 of them. Our MPS team showed up for #MarathonMonday, an annua...",
+      "link": "https://www.facebook.com/mpsarchitecture/posts/pfbid0VaojeXHFKTwJSpTi2yuMggCxFtbxvvbFcpfshNSKwh8yxXetHpiVYeDjToDewUSEl",
+      "published": "2026-04-29T12:37:08",
+      "description": "\ud83c\udfc3\u200d\u2640\ufe0f Not everyone ran a marathon\u2026 but we still crushed 40 of them. Our MPS team showed up for #MarathonMonday, an annual tradition inspired by the Boston Marathon that\u2019s all about movement, connection, and a little friendly competition. And this year? The numbers speak for themselves: \ud83d\udc5f 278 team members participated \ud83d\udccf 1,048.11 miles walked \ud83c\udfc1 That\u2019s 40 marathons \ud83d\udc63 Nearly 2 MILLION steps From early morning walks to lunchtime loops and after-work miles, this was a firmwide effort that brought peopl",
+      "source": "McMillan Pazdan Smith (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1985671",
+      "published": "2026-04-29T04:13:11",
+      "description": "City Council voted 6-1 on Monday to advance plans to rebuild clock tower at Barnet Park.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "At their meeting on Monday, Spartanburg City Council voted 6-1 to advance a plan to rebuild a downtown clock tower at th...",
+      "link": "https://www.facebook.com/spartanburg.sc/posts/pfbid02DY7iUvtcUm9uFwjxegtyGETGQos4wX2sS9KGtX5pAYZTYMGY6v9kJet9X4WpzVNrl",
+      "published": "2026-04-28T20:17:40",
+      "description": "At their meeting on Monday, Spartanburg City Council voted 6-1 to advance a plan to rebuild a downtown clock tower at the entrance to an updated Barnet Park at E St John and N Converse streets. The new tower will fulfill the City's commitment to rebuild a downtown clock tower to house the historic 1881 bell, along with elements from the previous clock tower that stood in a median along W Main Street. The new structure will continue the long community-centered legacy that has followed the 1881 be",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Last week we celebrated our second annual Decade Club dinner\u2014an evening dedicated to the people who have helped shape SW...",
+      "link": "https://www.instagram.com/p/DXsBZC2ksRs",
+      "published": "2026-04-28T19:55:30",
+      "description": "Last week we celebrated our second annual Decade Club dinner\u2014an evening dedicated to the people who have helped shape SW+ over the years.\n\nWith more than 30 team members marking 10+ years and 6 reaching the incredible milestone of 25+ years, we honored a combined 556 years of service. That legacy of commitment, leadership, and impact is what continues to move us forward.\n\nWe were also proud to welcome our newest inductees, Paul Peeples and Tommy Huang, into the Decade Club.\n\nThank you to everyon",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "The OneSpartanburg Vision Plan 3.0 will build on the success of the first two plans, which helped drive record-high per...",
+      "link": "https://www.facebook.com/reel/1680517813124453/",
+      "published": "2026-04-28T15:02:57",
+      "description": "The OneSpartanburg Vision Plan 3.0 will build on the success of the first two plans, which helped drive record-high per capita income and job opportunities countywide, along with hundreds of other transformative outcomes like Power Up Spartanburg, Re: Degree Spartanburg, Keep OneSpartanburg Beautiful, and more. The plan will be informed by data along with input from more than 3,600 residents and hundreds of focus-group participants representing audiences like business owners, HR professionals, m",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "Downtown Projects & Developments",
+      "link": "https://forum.urbanplanet.org/topic/33746-downtown-projects-developments/?do=findComment&comment=1985594",
+      "published": "2026-04-28T14:48:27",
+      "description": "With most all planned projects in Downtown underway I think it's time to start pushing the what's next! There are 2 things that stand out to me that need a real aggressive effort. #1- Something has got to be done with all the empty storefronts on Main St. between Church St. and the  Denny's building. In my opinion this area is the Cancer of Downtown. I'm not sure how to make this happen but I think this area needs to be scrutinized and a way is found to make the stakeholders perform or suffer  a",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "City Manager Chris Story discusses how investing in people oriented places like the Hub City Hopper and the Fitzgerald l...",
+      "link": "https://www.instagram.com/p/DXrUZt_jqo-",
+      "published": "2026-04-28T13:25:14",
+      "description": "City Manager Chris Story discusses how investing in people oriented places like the Hub City Hopper and the Fitzgerald leads to a virtuous cycle of more people, more economic activity, and safer communities. \n\n#strongtowns #strongtownsspartanburg #spartanburg #strongtownsburg",
+      "source": "Strong Towns Spartanburg (Instagram)"
+    },
+    {
+      "title": "Okay, these are officially in Downtown Spartanburg, and yes, they\u2019re just as fun as they look \ud83e\udd29 \ud83c\udf3a El Paso is now servi...",
+      "link": "https://www.facebook.com/downtownspartanburgsc/posts/pfbid021TyGkrvaYZBzUbRpL69xRmavan68ibB15Kr1rpw3iFifrCNHjPkJPgrevddWhcGwl",
+      "published": "2026-04-27T22:39:01",
+      "description": "Okay, these are officially in Downtown Spartanburg, and yes, they\u2019re just as fun as they look \ud83e\udd29 \ud83c\udf3a El Paso is now serving up the viral soft serve margaritas (you\u2019ve probably seen them all over your feed), and they\u2019re the perfect mix of classic marg + frozen treat. Treat yourself to one at @elpasospartanburg the next time you're downtown! \ud83d\udccd 149 S Daniel Morgan Ave, Spartanburg, SC 29306 #downtownspartanburgsc #experiencespartanburg #softservemargarita",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "Thank you to everyone who came out to Miles with the Mayor, hosted this month by us (Strong Towns Spartanburg!) We had a...",
+      "link": "https://www.instagram.com/p/DXpOI6_FCy4",
+      "published": "2026-04-27T17:49:10",
+      "description": "Thank you to everyone who came out to Miles with the Mayor, hosted this month by us (Strong Towns Spartanburg!)\nWe had a lot of good conversations, met new people, and got to spend a beautiful Saturday morning with our community \u2600\ufe0f\nIf you missed out, Miles with the Mayor happens every month whether Strong Towns is involved or not, so feel free to join in whenever you can!\n\n#strongtownsburg #strongtowns #Spartanburg",
+      "source": "Strong Towns Spartanburg (Instagram)"
+    },
+    {
+      "title": "Meet Landen \ud83d\udc4b Based in our Greenville office, Landen served in the U.S. Navy for six years before earning his degree in...",
+      "link": "https://www.instagram.com/p/DXnav8MiOf_",
+      "published": "2026-04-27T01:00:55",
+      "description": "Meet Landen \ud83d\udc4b\n \nBased in our Greenville office, Landen served in the U.S. Navy for six years before earning his degree in cybersecurity. As our IT Coordinator, he helps keep everything running seamlessly behind the scenes, making sure our team has the tools and support they need every day.\n \nOutside of work, he enjoys hiking, woodworking, and spending time with his wife and daughter.\n \nWelcome to the team!\n\n#SWpeople #newhire #itcoordinator #USNavy",
+      "source": "SeamonWhiteside (Instagram)"
     }
   ]
 }
