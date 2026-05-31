@@ -74,6 +74,7 @@ RSS_FEEDS = [
     ("https://rss.app/feeds/9LvxocD02Yp8KSDH.xml",   "Johnston Design Group (Facebook)"),
     ("https://rss.app/feeds/Q3es47cv2kKbmTvN.xml",   "SeamonWhiteside (Instagram)"),
     ("https://rss.app/feeds/O04e2vkehBq6O3w4.xml",   "Strong Towns Spartanburg (Instagram)"),
+    ("https://rss.app/feeds/UpiJ9YXQpCwYwI5R.xml",   "Walking Spartan (Substack)"),
     # Direct RSS feeds
     ("https://www.wspa.com/feed/",                    "WSPA 7News"),
     ("https://upstatebusinessjournal.com/feed/",      "Upstate Business Journal"),
