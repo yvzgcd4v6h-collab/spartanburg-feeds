@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests feedparser beautifulsoup4 lxml \
-                      facebook-scraper instaloader
+            lxml_html_clean facebook-scraper instaloader
 
       - name: Fetch feeds
         env:
