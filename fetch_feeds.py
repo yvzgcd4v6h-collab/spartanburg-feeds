@@ -178,11 +178,12 @@ def scrape_facebook(page_name, source_name, pages=2):
 # ── RSS FEEDS ────────────────────────────────────────────────────────────────
 
 RSS_FEEDS = [
-    ("https://walkingspartan.substack.com/feed",               "Walking Spartan Substack"),
-    ("https://upstatebusinessjournal.com/feed/",               "Upstate Business Journal"),
-    ("https://www.postandcourier.com/spartanburg/local/feed/", "Post & Courier Spartanburg"),
-    ("https://www.wspa.com/feed/",                             "WSPA 7News"),
-    ("https://www.foxcarolina.com/feed/",                      "Fox Carolina"),
+    # Substack API endpoint works where /feed blocks bots
+    ("https://walkingspartan.substack.com/api/v1/posts?limit=25", "Walking Spartan Substack"),
+    ("https://upstatebusinessjournal.com/feed/",                   "Upstate Business Journal"),
+    ("https://www.postandcourier.com/spartanburg/local/feed/",     "Post & Courier Spartanburg"),
+    ("https://www.wspa.com/feed/",                                  "WSPA 7News"),
+    ("https://www.goupstate.com/search/?q=spartanburg&f=rss",      "GoUpstate"),
 ]
 
 def parse_feed(url, source_name, retries=3):
