@@ -1,63 +1,539 @@
 {
-  "generated": "2026-10-19T16:42:36.242235+00:00",
-  "item_count": 160,
+  "generated": "2026-10-26T16:22:42.492891+00:00",
+  "item_count": 167,
   "cutoff_days": 35,
   "items": [
     {
-      "title": "Community outraged as convicted serial rapist, also heir to cosmetics fortune, walks free",
-      "link": "https://www.wspa.com/news/national/nexstar-media-wire/community-outraged-as-convicted-serial-rapist-also-heir-to-cosmetics-fortune-walks-free/",
-      "published": "2026-10-19T15:58:52",
-      "description": "Andrew Luster's trial gained international publicity because he fled to Mexico after posting $1 million bail in January 2003; he was captured months later in Puerto Vallarta by bounty hunter Duane \"The Dog\" Chapman, who was pursuing him with a TV crew.",
+      "title": "Greenwood 50 seeks voter approval for $175M school bond",
+      "link": "https://www.wspa.com/news/local-news/greenwood-50-seeks-voter-approval-for-175m-school-bond/",
+      "published": "2026-10-26T15:00:52",
+      "description": "GREENWOOD, S.C. (WSPA)\u2014Greenwood School District 50 is asking voters to approve a $175 million bond on the November 3rd ballot. The district said it would pay for a new Benjamin E. Mays Elementary School and a combined Lakeview-Pinecrest Elementary and major renovations at Rice and Hodges Elementary Schools. District leaders said there's no projected tax [...]",
       "source": "WSPA 7News"
     },
     {
-      "title": "\u2018Choose wisely\u2019: SC early voters flock to polls ahead of midterm elections",
-      "link": "https://www.wspa.com/news/choose-wisely-sc-early-voters-flock-to-polls-ahead-of-midterm-elections/",
-      "published": "2026-10-19T15:45:45",
-      "description": "GREENVILLE COUNTY, S.C. (WSPA) \u2013 Monday kicked off the first day of early voting for the statewide general election in South Carolina. Early voters crowded polling locations like the Greenville County Election and Registrations Office to make their voices heard.\u00a0 Polls are open from 8:30am to 6pm Monday through Saturday for early voting. Voters can [...]",
+      "title": "Upstate man accused of abducting, sexually assaulting teen",
+      "link": "https://www.wspa.com/news/upstate-man-accused-of-abducting-sexually-assaulting-teen/",
+      "published": "2026-10-26T14:22:22",
+      "description": "OCONEE COUNTY, S.C. (WSPA) -- A 49-year-old Fair Play man remains in jail following his arrest on charges of kidnapping and first-degree criminal sexual conduct involving a minor. The Oconee County Sheriff's Office announced that George W. Watson Jr. was arrested following an investigation into an incident reported in early October in Oconee County. The [...]",
       "source": "WSPA 7News"
     },
     {
-      "title": "Pet of the Week: Lloyd",
-      "link": "https://www.wspa.com/news/local-news/pet-of-the-week-lloyd/",
-      "published": "2026-10-19T15:43:50",
-      "description": "This week's Pet of the Week is a three-month-old cat named Lloyd.",
+      "title": "15-year-old arrested in connection with shooting near Florida A&M stadium",
+      "link": "https://www.wspa.com/news/top-stories/15-year-old-arrested-in-connection-with-shooting-near-florida-am-stadium/",
+      "published": "2026-10-26T13:31:00",
+      "description": "The suspect faces 11 counts of second-degree murder, according to police.",
       "source": "WSPA 7News"
     },
     {
-      "title": "Supreme Court to decide if 160-year-old home distilling ban is constitutional",
-      "link": "https://www.wspa.com/news/supreme-court-to-decide-if-160-year-old-home-distilling-ban-is-constitutional/",
-      "published": "2026-10-19T15:33:45",
-      "description": "Violations can carry up to five years in prison.",
+      "title": "Eric Bauza, the voice of Bugs Bunny and many other Looney Tunes characters, dies suddenly, family says",
+      "link": "https://www.wspa.com/news/national/eric-bauza-the-voice-of-bugs-bunny-and-many-other-looney-tunes-characters-dies-suddenly-family-says/",
+      "published": "2026-10-26T12:59:05",
+      "description": "Voice actor Eric Bauza, who succeeded Mel Blanc in voicing lovable Looney Tunes characters like Bugs Bunny, Daffy Duck and Porky Pig, has died, his family announced Sunday night.",
       "source": "WSPA 7News"
     },
     {
-      "title": "Eagles QB Jalen Hurts expected to miss the rest of the season with blood clots, AP source says",
-      "link": "https://www.wspa.com/news/top-stories/ap-eagles-qb-jalen-hurts-sidelined-indefinitely-with-blood-clots-that-could-cost-him-the-season/",
-      "published": "2026-10-19T15:33:31",
-      "description": "PHILADELPHIA (AP) \u2014 Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the season because of blood clots in his lungs, a person familiar with the situation told The Associated Press on Monday. The person spoke to the AP on condition of anonymity because of the sensitivity of a health matter. Hurts [...]",
+      "title": "Let's make a local recommendation",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2185337885411004/",
+      "published": "2026-10-26T12:38:26",
+      "description": "Let's make a local recommendation list! Where's your favorite place to get breakfast around Spartanburg",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Come through and grab something",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184989942112465/",
+      "published": "2026-10-26T12:26:46",
+      "description": "Come through and grab something to go!!!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "SC Palmetto Cash 5 Jackpot Reaches Record $1.2M",
+      "link": "https://www.wspa.com/news/sc-palmetto-cash-5-jackpot-reaches-record-1-246m/",
+      "published": "2026-10-26T12:16:33",
+      "description": "SPARTANBURG, S.C. (WSPA) -- South Carolina\u2019s own Palmetto Cash 5 jackpot has rocketed to a record $1,246,000 for Monday night's drawing! SC lottery officials said this is the largest Palmetto Cash 5 prize ever offered due to the jackpot rolling 47 times since it was last won on September 8. Palmetto Cash 5 tickets are [...]",
       "source": "WSPA 7News"
     },
     {
-      "title": "11-year-old hospitalized after dog attack in Spartanburg, owner cited",
-      "link": "https://www.wspa.com/news/11-year-old-hospitalized-after-dog-attack-in-spartanburg-owner-cited/",
-      "published": "2026-10-19T15:30:13",
-      "description": "SPARTANBURG, S.C. (WSPA) -- An 11-year-old boy was hospitalized after reportedly being bitten at least 10 times by a dog on Friday in a Spartanburg neighborhood. Officers with the Spartanburg Police Department were dispatched before 11 a.m. to a home on Kensington Drive after receiving reports of a dog bite. A woman told police that [...]",
+      "title": "City Council will meet today at 5:30 PM at the Spartanburg County Council Chambers, 366 N Church St. As a reminder, thos...",
+      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02cQ8p4QPUoD5Jgn2XYXVKBAY5j8svcRXWKkjs8xLSLapc2Vnjhh3Hruc7dyMW9Xbal",
+      "published": "2026-10-26T12:13:51",
+      "description": "City Council will meet today at 5:30 PM at the Spartanburg County Council Chambers, 366 N Church St. As a reminder, those wishing to speak during the public comment portion of any Spartanburg City Council meeting must complete and submit the following form located on the city website in advance, no later than 12 p.m. (noon) on the date of the meeting in question: https://www.cityofspartanburg.org/\u2026/City-Council-Citizen-Ap\u2026. Those who are unable to fill out the form may contact the City Clerk at ",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "SEC fines South Carolina $500K for allowing fans to storm the field after beating Tennessee",
+      "link": "https://www.wspa.com/news/state-news/sec-fines-south-carolina-500k-for-allowing-fans-to-storm-the-field-after-beating-tennessee/",
+      "published": "2026-10-26T11:34:46",
+      "description": "BIRMINGHAM, Ala. (AP) \u2014 The Southeastern Conference fined South Carolina $500,000 on Sunday for allowing fans to storm the field following a 27-24 victory over then-No. 11 Tennessee. The fine will be paid to the Volunteers in accordance with SEC policy. South Carolina was one of at least four schools whose fans rushed the field [...]",
       "source": "WSPA 7News"
     },
     {
-      "title": "Upstate store owner holds burglary suspect at gunpoint, deputies say",
-      "link": "https://www.wspa.com/news/local-news/upstate-store-owner-holds-burglary-suspect-at-gunpoint/",
-      "published": "2026-10-19T14:30:08",
-      "description": "PICKENS COUNTY, S.C. (WSPA) -- An armed burglary suspect was arrested at a Pickens County business after reportedly being held at gunpoint by the owner. On the evening of Tuesday, October 13th, the Pickens County Sheriff's Office received several 911 calls about a burglary in progress at the Sip n' Ride, where the owner of [...]",
+      "title": "Lawsuit claims Upstate police left woman at closed gas station before deadly crash",
+      "link": "https://www.wspa.com/news/lawsuit-claims-upstate-police-left-woman-at-closed-gas-station-before-deadly-crash/",
+      "published": "2026-10-26T11:12:33",
+      "description": "GREENWOOD, S.C. (WSPA) -- The estate of a South Carolina woman has filed a federal civil rights and wrongful death lawsuit against the City of Greenwood and two police officers, alleging they abandoned her at a closed gas station in freezing weather shortly before she was hit and killed by a vehicle. The estate of [...]",
       "source": "WSPA 7News"
     },
     {
-      "title": "Massive recall on hot dogs, bacon, deli meat and more: USDA",
-      "link": "https://www.wspa.com/news/national/massive-recall-on-hot-dogs-bacon-deli-meat-and-more-usda/",
-      "published": "2026-10-19T14:24:23",
-      "description": "More than 1.5 million pounds of meat products have been recalled.",
+      "title": "Car crashes into WNC meat market, injuring 4",
+      "link": "https://www.wspa.com/news/local-news/car-crashes-into-wnc-meat-market-injuring-4/",
+      "published": "2026-10-26T10:45:19",
+      "description": "HENDERSONVILLE, N.C. (WSPA) -- Four people were hospitalized over the weekend after police said a car crashed into a Western North Carolina business. On Saturday, before 11:30 a.m., the Hendersonville Police and Fire Department responded to 1825 Asheville Highway after a car crashed into the M&M Meat Market building. As a result of the crash, [...]",
       "source": "WSPA 7News"
+    },
+    {
+      "title": "6th Annual City of Clemson Arts Center Pumpkin Palooza",
+      "link": "https://www.wspa.com/news/6th-annual-city-of-clemson-arts-center-pumpkin-palooza/",
+      "published": "2026-10-26T10:18:02",
+      "description": "Clemson, S.C. (WSPA)- If you love Halloween and being competitive the Annual Pumpkin Palooza in Clemson is for you! All are welcome at the City of Clemson Arts Center for the 6th Annual Pumpkin Palooza happening in just a few days on Friday, October 30, 2026. From 6 to 8 pm you can enjoy a [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Sunny, Mild Week Ahead Before Rain Returns This Weekend",
+      "link": "https://www.wspa.com/weather/latest-forecast/sunny-mild-week-ahead-before-rain-returns-this-weekend/",
+      "published": "2026-10-26T09:42:05",
+      "description": "(WSPA)\u2014A mostly sunny and dry week is ahead, with mild afternoons and cool nights. Monday afternoon highs reach the lower 70s, with overnight lows in the low to mid 40s. We'll keep 70+ degree highs in the Upstate into the start of the weekend, with most days also reaching the 70s in the mountains. Rain [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "New City/County Government Center",
+      "link": "https://forum.urbanplanet.org/topic/121257-new-citycounty-government-center/?do=findComment&comment=1999260",
+      "published": "2026-10-26T03:22:16",
+      "description": "Movable platforms up on part of the City/County building, indicating that brick cladding could begin relatively soon.  More rebar & columns going up for the wrap apartments, including at the Kennedy/Spring corner.",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Tried Chex Grill and Wings",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184935718784554/",
+      "published": "2026-10-26T02:11:16",
+      "description": "Tried Chex Grill and Wings on Woodruff Rd tonight. Might be a bit of a drive but it was absolutely phenomenal.  The wings were crispy, juicy, had great flavor and very reasonably priced. The manager was super nice and even gave me and several others in the restaurant a sample wing, not just a sauce sample, but a wing to try. Been trying to find a new wing place since Smokin Wings closed and this is it.  We will definitely be back.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke",
+      "link": "https://www.wspa.com/news/national/trump-escalates-anti-muslim-attacks-against-el-sayed-in-michigan-drawing-arab-american-rebuke/",
+      "published": "2026-10-26T02:00:08",
+      "description": "PORT HURON, Mich. (AP) \u2014 President Donald Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States in remarks that drew a sharp rebuke from a former top Arab American ally. Trump called El-Sayed, a former [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "I'm making this cake, but",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184882052123254/",
+      "published": "2026-10-26T00:52:33",
+      "description": "I'm making this cake, but am looking for an edible image similar to the picture (green plaid with Master's logo or just the Master's logo).  Who can make this image?",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Spartanburg County Pet Resource Center announces rescued cats ready for adoption",
+      "link": "https://www.wspa.com/news/local-news/spartanburg-co-pet-resource-center-announces-cat-adoption-after-sudden-intake-of-87-cats/",
+      "published": "2026-10-26T00:50:59",
+      "description": "SPARTANBURG COUNTY, S.C. (WSPA) - Around 20 cats have been cleared and are available for adoption after being rescued from a home where 87 cats were found. The Spartanburg County Pet Resource Center said they want to thank the community for their support and donations following the sudden intake of the cats. According to the [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Frost potential tonight, sunny this week",
+      "link": "https://www.wspa.com/weather/latest-forecast/frost-potential-tonight-sunny-this-week/",
+      "published": "2026-10-25T23:12:29",
+      "description": "(WSPA) - Temperatures will be chilly again Sunday night, cooling to the mid to low 40s, upper 30s in the mountains. A frost advisory is in place for some western North Carolina counties. Monday will be another beautiful day with plenty of sunshine and slightly warmer temperatures. Highs are into the low 70s. Sunshine stays [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "We had a great meal",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184813612130098/",
+      "published": "2026-10-25T23:04:02",
+      "description": "We had a great meal at",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "ShLees Chicken soft opening was",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184798185464974/",
+      "published": "2026-10-25T22:36:41",
+      "description": "ShLees Chicken soft opening was incredible!  Best Chicken in this area. 12 piece with mashed potatoes and coleslaw.  Brought back so many memories.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "N.C. State\u2019s football coach Dave Doeren fired",
+      "link": "https://www.wspa.com/news/state-news/n-c-states-football-coach-dave-doeren-fired/",
+      "published": "2026-10-25T20:23:44",
+      "description": "RALEIGH, N.C. \u2013 North Carolina State head football coach was fired on Saturday following the Wolfpack\u2019s 31-28 road loss to Stanford on Friday night. N.C. State\u2019s McMurray Family Director of Athletics Boo Corrigan announced Doeren has been relieved of his duties effective immediately on Saturday afternoon via press release. \u201cI want to thank Coach Doeren [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+      "link": "https://www.wspa.com/news/national/venezuelas-opposition-leader-machado-returns-after-months-in-exile-as-doubts-over-democracy-deepen/",
+      "published": "2026-10-25T20:19:05",
+      "description": "CARACAS, Venezuela (AP) \u2014 Opposition leader and Nobel laureate Mar\u00eda Corina Machado reappeared in Venezuela Sunday for the first time since December, returning from exile at a time when doubts about the country's democratic future \u2014 and the role of the U.S. \u2014 are growing. It was her first appearance since the U.S. military deposed [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Simpsonville council to discuss ending ALPR contracts",
+      "link": "https://www.wspa.com/news/local-news/simpsonville-council-to-discuss-ending-alpr-contracts/",
+      "published": "2026-10-25T16:36:55",
+      "description": "The Simpsonville City Council is set to decide whether to discontinue allowing the city to use Flock cameras or other automated license plate readers within city limits.",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Went for a first time",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184563252155134/",
+      "published": "2026-10-25T16:31:55",
+      "description": "Went for a first time and holy cow was it AMAZING!!! Pricey but so worth it!!!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "The 3 approaches to daylight saving time considered this year, and what happened to them",
+      "link": "https://www.wspa.com/news/national/nexstar-media-wire/the-3-approaches-to-daylight-saving-time-considered-this-year-and-what-happened-to-them/",
+      "published": "2026-10-25T16:04:35",
+      "description": "There were three possible approaches the U.S. could have taken this year regarding seasonal time change. Instead, our clocks will fall back as usual next month.",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "\u2728 Country Fried Steak or",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184514532160006/",
+      "published": "2026-10-25T15:29:09",
+      "description": "\u2728 Country Fried Steak or Buttermilk Fried Chicken Breast | $17 Sawmill gravy, mashed potatoes, country green beans, & a buttermilk biscuit. #brunch #countryfried #gravy #breakfast #yum",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "SNAP winners and losers: Which states are facing possible funding cuts?",
+      "link": "https://www.wspa.com/news/snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/",
+      "published": "2026-10-25T15:08:35",
+      "description": "Time is ticking for states to slash their error rates or risk losing a sizable amount of federal funding for SNAP.",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "NFL and players' union working together to review the handling of Jalen Hurts' blood clot diagnosis",
+      "link": "https://www.wspa.com/sports/ap-sports/ap-nfl-and-players-union-working-together-to-review-the-handling-of-jalen-hurts-blood-clot-diagnosis/",
+      "published": "2026-10-25T13:51:35",
+      "description": "The league and players\u2019 union released a joint statement Sunday saying they are looking into it after the NFLPA called for an investigation earlier in the week.",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+      "link": "https://www.wspa.com/news/national/ap-home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a-stagnant-market/",
+      "published": "2026-10-25T12:59:22",
+      "description": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "*\"See you tomorrow for Sunday",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183575978920528/",
+      "published": "2026-10-25T12:54:29",
+      "description": "*\"See you tomorrow for Sunday of Southern food at El Chingon Cowpens from 10:30 am til 2:30 pm here in Cowpens\"*",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "It\u2019s a great day for",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183730478905078/",
+      "published": "2026-10-25T12:54:19",
+      "description": "It\u2019s a great day for some McClellan\u2019s Fish and Chicken 1441 Union Street Spartanburg 2 pm till 9 pm. Call us with your pickup order or order online at McClellansfishandchicken.com  We are also available on DoorDash",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "\ud83d\udd25 TOMORROW IS PRIME RIB",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183757372235722/",
+      "published": "2026-10-25T12:53:53",
+      "description": "\ud83d\udd25 TOMORROW IS PRIME RIB DAY! \ud83d\udd25*\n              Sunday 10-25-26*\n*242 Battleground Rd Cowpens*\n*DoorDash + Window pick-up*",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Mexican here!",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183816605563132/",
+      "published": "2026-10-25T12:53:35",
+      "description": "Mexican here!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "> \ud83d\udd25 *IT'S SOUTHERN FOOD",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184376128840513/",
+      "published": "2026-10-25T12:53:26",
+      "description": "> \ud83d\udd25 *IT'S SOUTHERN FOOD SUNDAY TODAY!!* \ud83d\udd25\n> \n> Come to *EL CHINGON COWPENS - 242 Battleground Rd, Cowpens, SC*\n> \n> *Today Sunday 10:30 AM - 2:30 PM*\n> \n> Homemade like Grandma's! \n> \ud83c\udf57 Fried Chicken - Dark & White Meat\n> \ud83e\udd69 Meatloaf with gravy, Cubed Steak & Gravy\n> \ud83c\udf56 Fried Pork Chop, Chicken Tenders, Meat Loaf\n> \ud83e\udd57 Mac & Cheese, Mashed Potatoes & Gravy, Cabbage, Pinto Beans, Green Beans, Deviled Eggs, Fried Okra, Cornbread\n> \n> And don't forget our *HOMEMADE PEACH COBBLER & Chocolate Cake* \ud83c\udf51\ud83c\udf6b War",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "More sunshine this week with slightly warmer temperatures",
+      "link": "https://www.wspa.com/weather/more-sunshine-this-week-with-slightly-warmer-temperatures/",
+      "published": "2026-10-25T12:16:35",
+      "description": "Temperatures will warm up slightly to the low to mid 70s over the next few days.",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Burger so good I had",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184352865509506/",
+      "published": "2026-10-25T12:14:26",
+      "description": "Burger so good I had to go back for round two @ nu-way.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "They\u2019re open and it\u2019s delicious.",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184344022177057/",
+      "published": "2026-10-25T12:03:53",
+      "description": "They\u2019re open and it\u2019s delicious.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "SANDY'S CHEW CHEW'S SUNDAY MENU",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2184298108848315/",
+      "published": "2026-10-25T10:59:50",
+      "description": "SANDY'S CHEW CHEW'S SUNDAY MENU CALL IN WELCOME 864-425-1324 DOWNTOWN gaffney e birnie st 11-5",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Newsom amasses fundraising machine that could power 2028 bid",
+      "link": "https://www.wspa.com/news/top-stories/newsom-amasses-fundraising-machine-that-could-power-2028-bid/",
+      "published": "2026-10-25T10:06:17",
+      "description": "If California Gov. Gavin Newsom (D) enters the 2028 presidential race as many Democrats expect, he\u2019ll walk in with an asset other White House hopefuls will inarguably envy: a small-dollar fundraising and organizing machine powered by a massive and ever-growing contact list of potential supporters across the country. Even before last year\u2019s successful Proposition 50 [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Brewers lefty Aaron Ashby nears postseason scoreless relief record with World Series save",
+      "link": "https://www.wspa.com/sports/ap-brewers-ashby-nears-postseason-scoreless-relief-record-with-world-series-save/",
+      "published": "2026-10-25T06:58:17",
+      "description": "Brewers lefty Aaron Ashby nears postseason scoreless relief record with World Series save",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Life at the top isn't easy as BYU becomes the latest top-2 team to lose to an unranked opponent",
+      "link": "https://www.wspa.com/sports/ap-sports/ap-ole-miss-texas-and-houston-utah-are-the-headliners-but-intrigue-lurks-in-week-8/",
+      "published": "2026-10-25T05:55:05",
+      "description": "Life at the top isn't easy as BYU becomes the latest top-2 team to lose to an unranked opponent",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "At least 12 people injured in shooting near a football stadium in Florida",
+      "link": "https://www.wspa.com/news/national/ap-at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
+      "published": "2026-10-25T04:34:32",
+      "description": "At least 12 people injured in shooting near a football stadium in Florida",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Went to Lee's Famous Recipe",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183862298891896/",
+      "published": "2026-10-24T23:12:50",
+      "description": "Went to Lee's Famous Recipe Chicken..\nToday's soft opening.. Food was really good.. Establishment was  new & super clean..\n\nI met the owner Harris, great guy, He was in lobby greeting customers.\n\n2161 E Main St, Spartanburg, SC 29307",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Come join us at Eggs",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183828745561918/",
+      "published": "2026-10-24T22:08:09",
+      "description": "Come join us at Eggs Up Grill Moore on Halloween until 2 for Halloween goodie bags and candy for the kids! We encourage costumes but they are not necessary! Me and my team will be dressed up and this year's theme is movies! Hope to see some smiling faces!! Any questions, let me know!!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Just got a senior plate",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183786058899520/",
+      "published": "2026-10-24T20:53:07",
+      "description": "Just got a senior plate today. Looks yummy. Thank you Lake Bowen Fish Camp.",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Stop by Home Run Cafe",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183702415574551/",
+      "published": "2026-10-24T18:37:51",
+      "description": "Stop by Home Run Cafe Inman during Boo on Mill!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Pizza Perfect Inman, SC",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183675265577266/",
+      "published": "2026-10-24T18:02:22",
+      "description": "Pizza Perfect Inman, SC",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Well, we hit up @BronzevilleBites",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183635712247888/",
+      "published": "2026-10-24T17:07:45",
+      "description": "Well, we hit up @BronzevilleBites today.  This place is better than alright!!!!  Food was fantastic!!  Did a Chicago dog and the wife had the Italian beef sandwich!!! \nDelicious!!! Sat outside and chatted with the guys, just a joy!!!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Come see us today!",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183629418915184/",
+      "published": "2026-10-24T17:00:26",
+      "description": "Come see us today!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Flippn\u2019 Plates plates is open",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183613152250144/",
+      "published": "2026-10-24T16:39:15",
+      "description": "Flippn\u2019 Plates plates is open and ready to take your orders!! Open today & Sunday \n\n\ud83c\udf2dMexican hotdogs and smash burgers! Add your favorite toppings to make it even better! \n\n\ud83c\udf53Strawberry crunch cake with cream cheese frosting\n\n\ud83d\udccdPickup: Center Drive, Spartanburg (PM for direct address) \n\u2022 Delivery available for an extra $10\n\n\u2728Comment or message Carlos Ayala or myself to get yours!",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "Y\u2019all come to hillcrest and",
+      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2183548678923258/",
+      "published": "2026-10-24T15:17:33",
+      "description": "Y\u2019all come to hillcrest and support Mr  and come and see me and my work crew this morning @  Lee\u2019s Famous Chicken we\u2019re having our soft opening today from 11-7 and we officially open Monday \ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83e\udd73",
+      "source": "Spartanburg Eats (Facebook)"
+    },
+    {
+      "title": "No charges filed in deadly shooting at WNC shopping center",
+      "link": "https://www.wspa.com/news/1-dead-after-shooting-at-wnc-shopping-center/",
+      "published": "2026-10-24T02:12:33",
+      "description": "SPINDALE, N.C. (WSPA) \u2013 One man is dead after a shooting at a shopping center near Sakura in Spindale Friday night, according to police. Spindale Police Chief Chad Nazelrod said the shooting happened at 239 West Main Street. Investigators are reportedly interviewing the shooter. On Saturday, police identified the victim of the shooting as Wesley [...]",
+      "source": "WSPA 7News"
+    },
+    {
+      "title": "Our take on the \u2728girl grip\u2728 trend with some Downtown Spartanburg fall staples: Health In Hand\u2019s maple pumpkin pie smooth...",
+      "link": "https://www.facebook.com/reel/1650455386581087/",
+      "published": "2026-10-23T21:18:15",
+      "description": "Our take on the \u2728girl grip\u2728 trend with some Downtown Spartanburg fall staples: Health In Hand\u2019s maple pumpkin pie smoothie & cozy/spooky reads from Hub City Bookshop \ud83e\udd67\ud83d\udcd5 #experiencespartanburg #downtownspartanburg #spartanburgsc #fallvibes #girlgrip",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "City Council will meet Monday, October 26th at 5:30 PM at the Spartanburg County Council Chambers, 366 N Church St. As a...",
+      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid05WyoqxxgX9xMR1c4pEcEGEFJwfQu3cBsxK4QYr29uJ4DgRxn27xXzLbc2SvJgcP3l",
+      "published": "2026-10-23T20:08:42",
+      "description": "City Council will meet Monday, October 26th at 5:30 PM at the Spartanburg County Council Chambers, 366 N Church St. As a reminder, those wishing to speak during the public comment portion of any Spartanburg City Council meeting must complete and submit the following form located on the city website in advance, no later than 12 p.m. (noon) on the date of the meeting in question: https://www.cityofspartanburg.org/\u2026/City-Council-Citizen-Ap\u2026. Those who are unable to fill out the form may contact the",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "OneSpartanburg, Inc. Posted",
+      "link": "https://m.facebook.com/events/1024015780700352/",
+      "published": "2026-10-23T19:35:47",
+      "description": "",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "A strong workforce is built through collaboration. McMillan Pazdan Smith served as presenting sponsor of the 2026 Upstat...",
+      "link": "https://m.facebook.com/mpsarchitecture/posts/pfbid02xYFCES7b7t33FKsNjyvf92uD4i3UfbGooworzBFC6RbQaLevpEzWFkd1TBW7uiBgl",
+      "published": "2026-10-23T19:09:45",
+      "description": "A strong workforce is built through collaboration. McMillan Pazdan Smith served as presenting sponsor of the 2026 Upstate Talent Forum, where leaders from education, business, economic development, and government came together to discuss the future of workforce development across the Southeast. https://hubs.li/Q04CbLvy0 The valuable conversations over the course of the event highlighted a shared priority: creating stronger pathways between education and employment while preparing students and or",
+      "source": "McMillan Pazdan Smith (Facebook)"
+    },
+    {
+      "title": "It's the Battle of the Badges Softball Classic with Spartanburg Police Department  versus Spartanburg Fire Department an...",
+      "link": "https://www.facebook.com/reel/2141889579695446/",
+      "published": "2026-10-23T15:01:25",
+      "description": "It's the Battle of the Badges Softball Classic with Spartanburg Police Department  versus Spartanburg Fire Department and the heckling has begun! Join us at Fifth Third Park on Saturday, November 7th starting at 12 PM for the some softball, some fun, and some support for great causes! Tickets are $10 each (or 5 canned food items per person), purchased at the gate, and 100% of the proceeds will go to Children's Advocacy Center of Spartanburg, Cherokee, and Union Counties and South Carolina Firefi",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Mackenzie Syiem on Car Culture from India to the United States",
+      "link": "https://walkingspartan.substack.com/p/mackenzie-syiem-on-car-culture-from-985",
+      "published": "2026-10-22T19:00:29",
+      "description": "",
+      "source": "Walking Spartan (Substack)"
+    },
+    {
+      "title": "Don't forget Miles with the Mayor is happening this Saturday, October 24th starting at 8 AM at Converse University, 580...",
+      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02D85UerA36S23ZmFxfW9Hnxsr7bjwDtMib43G4viLjZKGhZMHmwcpkJv53D6pYsVCl",
+      "published": "2026-10-22T19:00:10",
+      "description": "Don't forget Miles with the Mayor is happening this Saturday, October 24th starting at 8 AM at Converse University, 580 E Main St. (meet in the Twichell Auditorium parking lot). Join Mayor Jerome Rice to get some fresh air, exercise, learn more about our community, and engage directly with City leadership! For more information, contact the Community Relations Office at 864-596-2052 or visit https://cityofspartanburg.org/474/Miles-with-The-Mayor.",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "International Festival 2026 was one of our best yet, with the streets of Downtown Spartanburg full of music, culture, an...",
+      "link": "https://m.facebook.com/downtownspartanburgsc/posts/pfbid0KTa6hHNvLAQzadnaaUpTXut6ynbL2i7ytf6SY6aewPm96hZjz8AV9krrT5LP7YAol",
+      "published": "2026-10-22T18:42:32",
+      "description": "International Festival 2026 was one of our best yet, with the streets of Downtown Spartanburg full of music, culture, and foods from across the globe! The weather held off and we had a great crowd enjoying Spartanburg's favorite fall festival and honoring America's 250th anniversary.",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "Talkin' Trash with Jes is back and in this episode, Jes and Osha Spearman, our Environmental Enforcement Inspector, disc...",
+      "link": "https://www.facebook.com/reel/4498258753773605/",
+      "published": "2026-10-22T14:00:53",
+      "description": "Talkin' Trash with Jes is back and in this episode, Jes and Osha Spearman, our Environmental Enforcement Inspector, discuss best practices for your city solid waste and recycling roll carts. \u267b\ufe0f\ufe0f Do space your roll carts 3 feet from each other and from any obstacle like mailboxes, fire hydrants, or vehicles \u267b\ufe0f\ufe0f Do roll your cart out prior to sunrise on your designated collection day and roll it back before sunset the following day \u267b\ufe0f\ufe0f Do check our website to ensure you're recycling the right mate",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Building career pathways, one learning environment at a time. \ud83c\udf93 Preparing the next generation of healthcare professiona...",
+      "link": "https://m.facebook.com/mpsarchitecture/posts/pfbid02Y6NQQj7QR8fyMS9U8nu7pMvCpjGLAp5xKRSbgEyRyqEwVyrYFcZDvUwGf6wQtgC6l",
+      "published": "2026-10-22T14:00:18",
+      "description": "Building career pathways, one learning environment at a time. \ud83c\udf93 Preparing the next generation of healthcare professionals starts with giving students the tools, spaces, and opportunities to succeed. The Greenville Technical College's Prisma Health Center for Health & Life Sciences brings hands-on training and collaborative learning together, helping students make the transition from the classroom to real-world practice. As our community prepares to celebrate Champions for Student Success next we",
+      "source": "McMillan Pazdan Smith (Facebook)"
+    },
+    {
+      "title": "For our October Small Business Spotlight, we stopped by The Local Hiker! \ud83c\udfd5\ufe0f Whether you\u2019re getting ready for your next...",
+      "link": "https://www.facebook.com/reel/2318494032241197/",
+      "published": "2026-10-21T20:38:52",
+      "description": "For our October Small Business Spotlight, we stopped by The Local Hiker! \ud83c\udfd5\ufe0f Whether you\u2019re getting ready for your next outdoor adventure or looking for your new favorite spot to unwind, The Local Hiker has you covered! They offer hiking and camping gear, outdoor apparel, everyday essentials, and more. You can also stop by the Hiker Hub for beer, wine, and snacks to enjoy after a day on the trails or catching up with friends. And you can even stop by on Friday nights at 7 PM for live music! \ud83c\udfb6 We ",
+      "source": "Downtown Spartanburg SC (Facebook)"
+    },
+    {
+      "title": "What does it really mean to lead through listening? \ud83c\udf99\ufe0f For Anita Huggins, Superintendent of Charleston County School Di...",
+      "link": "https://m.facebook.com/mpsarchitecture/posts/pfbid02rR6KcRA6hhTaaHvDHHznnJoM4VJBKKvXjSQQAox8jpzde48MZ37NTXWbpWQtufR5l",
+      "published": "2026-10-21T19:12:34",
+      "description": "What does it really mean to lead through listening? \ud83c\udf99\ufe0f For Anita Huggins, Superintendent of Charleston County School District, leadership starts with staying connected to the people and communities schools serve. In our latest podcast episode, Huggins shares how trust, strategic partnerships, and a renewed approach to educational equity are shaping the district's future\u2014and what happens when listening translates into meaningful action for students and educators. From community engagement to meas",
+      "source": "McMillan Pazdan Smith (Facebook)"
+    },
+    {
+      "title": "International Festival 2026 was one of our best yet, with the streets of Downtown Spartanburg full of music, culture, an...",
+      "link": "https://www.facebook.com/reel/2105187677031622/",
+      "published": "2026-10-21T19:00:16",
+      "description": "International Festival 2026 was one of our best yet, with the streets of Downtown Spartanburg full of music, culture, and foods from across the globe! The weather held off and we had a great crowd enjoying Spartanburg's favorite fall festival and honoring America's 250th anniversary.",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Johnston Design Group Posted",
+      "link": "https://m.facebook.com/johnstondesigngroup/posts/pfbid024fqHoqWdocHwoiZfP6gZCZZEtEM4HSgdaS8e3yw95LZdHA1X6EkGA791jK43x6Skl",
+      "published": "2026-10-21T18:56:18",
+      "description": "",
+      "source": "Johnston Design Group (Facebook)"
+    },
+    {
+      "title": "OneSpartanburg, Inc. works to make sure the voice of local businesses and industry are heard by legislators at the state...",
+      "link": "https://m.facebook.com/OneSpartanburgInc/posts/pfbid02dhpFjSah7tWDHJwLq2JU6toT8dfu4aizbmjBKTSYP15JnMnEBT5sww7najDoM5odl",
+      "published": "2026-10-21T17:27:07",
+      "description": "OneSpartanburg, Inc. works to make sure the voice of local businesses and industry are heard by legislators at the state and federal level. So, we are again partnering with the Upstate Chamber Coalition to survey the legislative priorities and concerns for Spartanburg County\u2019s business community to form a priorities list for next year\u2019s legislative session in Columbia. Have your voice heard by lawmakers and take the survey at https://www.votervoice.net/Greenville\u2026/Surveys/14317/Respond",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "Wall Street Wednesday is back this evening from 6 PM until 8 PM! Come enjoy a beautiful evening in Downtown Spartanburg...",
+      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid0qq295eDgKimgUsi7xShSPe51pZ7fLGsBuM9iXP5x1jFAFj9m5PRa75DcZpLvmhvpl",
+      "published": "2026-10-21T14:00:12",
+      "description": "Wall Street Wednesday is back this evening from 6 PM until 8 PM! Come enjoy a beautiful evening in Downtown Spartanburg with our live music on Wall Street and enjoy dinner and a show!\ud83c\udfb6 \ud83c\udfb8 Our featured artist is Greener Pastures!",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "OneSpartanburg, Inc. Posted",
+      "link": "https://m.facebook.com/events/1549614593638577/",
+      "published": "2026-10-21T13:37:21",
+      "description": "",
+      "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "Futures aren't forged alone. \ud83d\udd25 Behind every student's success is a community willing to invest in their potential. On O...",
+      "link": "https://m.facebook.com/mpsarchitecture/posts/pfbid0QefNnLGGKvvm7WjvHUYyFvBvvXMT3EiKq474UZpKnitEJWbPrNrqrARQYLxvQA6al",
+      "published": "2026-10-20T17:54:59",
+      "description": "Futures aren't forged alone. \ud83d\udd25 Behind every student's success is a community willing to invest in their potential. On October 27, we're proud to support the Greenville Technical College Foundation's Champions for Student Success, an evening dedicated to creating opportunities for students across the Upstate. Through scholarships, emergency assistance, and student success initiatives, the Foundation is helping students overcome barriers and prepare for meaningful careers. We're honored to stand a",
+      "source": "McMillan Pazdan Smith (Facebook)"
+    },
+    {
+      "title": "A Place to Call Home is pleased to announce volunteer opportunities for BridgeWay Village Move-In Days.  BridgeWay Villa...",
+      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02YB4hZjeQpQ2ZEnW3QBDyDoSkGv3xpdiDDFxxYTSPWULzmfx6rA2AjUZws2iZoNGLl",
+      "published": "2026-10-20T14:00:05",
+      "description": "A Place to Call Home is pleased to announce volunteer opportunities for BridgeWay Village Move-In Days. BridgeWay Village is a transformational transitional housing community for women and small families who are ready to move forward into a brighter, more stable future, completed in partnership with Homes of Hope and First Baptist Spartanburg. Please click the link below to view the sign-up sheet and choose the opportunities that work best for you. If you are signing up as a group, please have e",
+      "source": "City of Spartanburg (Facebook)"
+    },
+    {
+      "title": "Morgan Square Redesign",
+      "link": "https://forum.urbanplanet.org/topic/119681-morgan-square-redesign/?do=findComment&comment=1998796",
+      "published": "2026-10-20T12:59:34",
+      "description": "I think the lack of a strong organized push on this Main St. section is a huge mistake the City is making. There are a lot of bad owners and the City/County is among them.  The City should have never sold M Peters the old theater site without reversionary language should M Peters not perform. Possibly the same with the old Diamond Jewelers. The SC Center for Justice should be relocated and that building repurposed into an active storefront. In addition, Susan Bridges who controls Security Financ",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "Morgan Square Redesign",
+      "link": "https://forum.urbanplanet.org/topic/119681-morgan-square-redesign/?do=findComment&comment=1998772",
+      "published": "2026-10-20T02:18:40",
+      "description": "There is a comprehensive downtown transportation study that was recently completed.  I don't think it has been released to the public in full yet, but there was a presentation at a City Council meeting a few months ago.  One of the key focus areas was making Church easier to cross as a pedestrian.  This included enhanced crossings for several blocks along Church (median refuges, mid-block crossings with lights, pedestrian-only light phase at Main, etc).  These were all planned for the \"short ter",
+      "source": "Urban Planet Spartanburg"
+    },
+    {
+      "title": "A new space calls for a big celebration! \ud83c\udf89 Last week, we officially celebrated the grand opening of our Raleigh office\u2019...",
+      "link": "https://www.instagram.com/p/DesQS2nD-cN",
+      "published": "2026-10-19T21:45:29",
+      "description": "A new space calls for a big celebration! \ud83c\udf89\n \nLast week, we officially celebrated the grand opening of our Raleigh office\u2019s new permanent home in Cary, NC!\n \nWe kicked things off with a ribbon cutting alongside the Cary Chamber of Commerce, followed by an outdoor celebration with live music, raffles, and a full hog roast!\n \nSince putting down roots in the Triangle in 2024, our crew has continued to grow, and this new space marks an exciting next chapter. A big thank you to everyone who came out t",
+      "source": "SeamonWhiteside (Instagram)"
+    },
+    {
+      "title": "Spartanburg Police Department's Trunk or Treat is coming up in only 10 days and we still need candy donations! \ud83c\udf83 Pick u...",
+      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid024dRs5fzHrqp4KftHVFVnwNVrURxFofBULncgkheNzJLidAcNdx7671RwPaZbkUwfl",
+      "published": "2026-10-19T18:00:01",
+      "description": "Spartanburg Police Department's Trunk or Treat is coming up in only 10 days and we still need candy donations! \ud83c\udf83 Pick up an extra bag (or 3) and drop them off at the Police Department headquarters, 206 N Forest St. (or you can email jwatson@cityofspartanburg.org to arrange a pick-up). \ud83c\udf6d Interested in attending? Don your best costumes and join us on Morgan Square on Thursday, October 29th from 6 PM-9 PM for candy, photo ops, and more! \ud83d\udc7b",
+      "source": "City of Spartanburg (Facebook)"
     },
     {
       "title": "City of Spartanburg, SC Posted",
@@ -74,300 +550,6 @@
       "source": "OneSpartanburg, Inc. (Facebook)"
     },
     {
-      "title": "Georgia traffic stop leads to drug arrests, meth seized",
-      "link": "https://www.wspa.com/news/georgia-traffic-stop-leads-to-drug-arrests-meth-seized/",
-      "published": "2026-10-19T14:07:07",
-      "description": "TOCCOA, G.A. (WSPA)\u2014Two people were arrested early Sunday morning after meth was found during a traffic stop in Georgia. During the early morning hours, officers with the Toccoa Police Department conducted a traffic stop that resulted in the arrest of two individuals and the discovery of suspected methamphetamine. Officers were attempting to locate a silver [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Upstate worker killed in crash involving sanitation truck",
-      "link": "https://www.wspa.com/news/top-stories/worker-killed-in-crash-involving-trash-truck-in-anderson-co/",
-      "published": "2026-10-19T13:23:46",
-      "description": "ANDERSON COUNTY, S.C. (WSPA) -- Officials are investigating a fatal crash involving a sanitation truck Monday morning in Anderson County. The Anderson County Coroner's Office was called at 6:23 a.m. to a crash on Highway 413 and Hawkins Lane, where a sanitation truck collided with a pickup truck, resulting in one fatality. Their identity has [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "WNC deputy hurt after patrol car rear-ended on I-26",
-      "link": "https://www.wspa.com/news/wnc-deputy-hurt-after-patrol-car-rear-ended-on-i-26/",
-      "published": "2026-10-19T13:05:13",
-      "description": "BUNCOMBE COUNTY, N.C. (WSPA) -- Individuals, including a Western North Carolina deputy, were taken to a hospital Sunday night after a crash in a construction zone on Interstate 26. The Buncombe County Sheriff\u2019s Office reported that a deputy was rear-ended while working a secondary assignment for a construction company on Interstate 26 West near Airport [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "3 layer made from scratch",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178725889405537/",
-      "published": "2026-10-19T12:58:07",
-      "description": "3 layer made from scratch German Chocolate Cake without nuts. Can pick up 10/22/26. Spartanburg/Union areas.",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "New details released in Greenville shootout that injured deputy, suspect",
-      "link": "https://www.wspa.com/news/local-news/new-details-released-in-greenville-co-shootout-that-injured-deputy-suspect/",
-      "published": "2026-10-19T12:50:10",
-      "description": "GREENVILLE COUNTY, S.C. (WSPA) \u2013 The Greenville County Sheriff\u2019s Office has released more information Monday morning regarding a shootout that left a deputy and suspect injured in September. Deputies provided a disclaimer that the information released may be disturbing to some viewers and viewer discretion is advised. Click here to watch: Shooting leaves deputy wounded, [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Early childhood educators fear tougher working conditions amid Trump proposals",
-      "link": "https://www.wspa.com/news/national/nexstar-media-wire/early-childhood-educators-fear-tougher-working-conditions-amid-trump-proposals/",
-      "published": "2026-10-19T12:07:45",
-      "description": "Early childhood educators are sounding the alarm at changes proposed by the Trump administration to loosen regulations on the industry, including staff-to-child ratios.",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Not sure what to order?",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178056399472486/",
-      "published": "2026-10-19T11:56:14",
-      "description": "Not sure what to order? Start here. \n\nMeet the bowls that keep people coming back...from salmon favorites to bold, flavor-packed combos, our Signature Bowls are stacked with fresh ingredients and serious craveability.\n\nWhether you already have a go-to or you\u2019re trying Poke Bros for the first time, there\u2019s a bowl with your name on it. \n\nWhich one are you ordering first?",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Everyone Welcome to attend the",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178647499413376/",
-      "published": "2026-10-19T11:14:25",
-      "description": "Everyone Welcome to attend the biggest and best party spot in Inman! Sing and dance the night away to the greatest era of music!  Food and drink specials. Full Menu. Full Bar available all night",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "@destacar We must show this",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178622459415880/",
-      "published": "2026-10-19T10:38:17",
-      "description": "@destacar \nWe must show this photo in order to claim the drinks.\nDebemos Mostrar esta foto para poder reclamar las bebidas.",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Early voting begins Monday in South Carolina",
-      "link": "https://www.wspa.com/news/state-news/early-voting-begins-monday-in-south-carolina/",
-      "published": "2026-10-19T10:28:20",
-      "description": "CHARLESTON, S.C. (WCBD) - Early voting in South Carolina begins Monday. Registered voters will have two weeks to cast their ballots before Election Day. Before going to their polling location, election officials encourage people to have a plan, such as reviewing their sample ballot and knowing their precinct and voter information. Early voting locations may [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Warm, Dry Week Ahead with Cool Mornings, Mild Afternoons",
-      "link": "https://www.wspa.com/weather/latest-forecast/warm-dry-week-ahead-with-cool-mornings-mild-afternoons/",
-      "published": "2026-10-19T10:12:00",
-      "description": "(WSPA)\u2014A warm and dry week is ahead, with more cool mornings and mild afternoons. Monday's highs will be near 70, with upper 60s in the mountains. Temperatures dip into the lower 40s and upper 30s in the mountains under a clear sky overnight. Upstate highs remain in the 70s through the week, with slightly cooler [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "National Guard member and armed man shot in DC, police say",
-      "link": "https://www.wspa.com/news/top-stories/national-guard-member-and-armed-man-shot-in-dc-police-say-2/",
-      "published": "2026-10-19T09:59:10",
-      "description": "Police say three Guard members fired their weapons, and investigators don\u2019t yet know which one hit the man they arrested.",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Soups on for lunch today!",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178592376085555/",
-      "published": "2026-10-19T09:53:35",
-      "description": "Soups on for lunch today!",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "The manager tonight was in",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178282549449871/",
-      "published": "2026-10-19T01:39:54",
-      "description": "The manager tonight was in my 16 year olds face pointing his finger in his face. ALWAYS YELLING at Kids and THREATENING TO FIRE them. Tonight, HE was caught and my husband had to run in and defend him. THATS WHY they\u2019re short staffed now. The manger is trash. Smokes outside the door and goes back in to put pepperonis all in yall pizzas!! Calling corporate on him as soon as the doors open with an attorney. Tried it. \ud83d\udc95 Pizza Hut",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Trump says he will close historic DC golf course for 15 months of renovations",
-      "link": "https://www.wspa.com/news/national/trump-says-he-will-close-historic-dc-golf-course-for-15-months-of-renovations/",
-      "published": "2026-10-18T23:56:19",
-      "description": "WEST PALM BEACH, Fla. (AP) \u2014 President Donald Trump on Sunday announced plans to close a historic public golf course in the nation's capital for 15 months and redevelop it despite a court challenge to his long-sought renovation. Trump posted on social media about his intent to shutter the East Potomac Golf Course, not far [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Miami is No. 1 in AP Top 25 for 1st time since '02, No. 2 BYU's ranking best since '84 title season",
-      "link": "https://www.wspa.com/sports/ap-hurricane-warning-miami-poised-for-no-1-after-5-of-the-top-7-teams-lose-in-historic-top-25-day/",
-      "published": "2026-10-18T23:42:27",
-      "description": "Miami is No. 1 in The Associated Press Top 25 for the first time since 2002, No. 2 BYU has its highest ranking since its 1984 national championship season and Notre Dame and Georgia stayed in the top five Sunday after both lost close games. The wildest and wackiest week of the college football season [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Truck overturns in Kansas City, killing dozens of cows and causing dozens more to roam streets",
-      "link": "https://www.wspa.com/news/national/truck-overturns-in-kansas-city-killing-dozens-of-cows-and-causing-dozens-more-to-roam-streets/",
-      "published": "2026-10-18T22:55:36",
-      "description": "KANSAS CITY, Mo. (AP) \u2014 Dozens of cattle spilled onto a street in Kansas City, Missouri, when a semitractor-trailer plunged off a highway overpass in the city\u2019s downtown area and onto a car early Sunday, shutting down some roads and setting off a search for the traumatized animals that survived. The accident occurred shortly before [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
-      "link": "https://www.wspa.com/news/ap-top-headlines/ap-blaze-at-st-petersburg-oil-sites-as-kyiv-launches-more-than-1000-drones-at-russia/",
-      "published": "2026-10-18T21:15:42",
-      "description": "Ukrainian strikes set an oil export terminal and a depot ablaze in St. Petersburg on Sunday as Kyiv launched more than 1,000 drones at Russia in one of its largest aerial attacks of the war. The strikes came as tensions between Kyiv and Washington deepened, with U.S. President Donald Trump criticizing Kyiv\u2019s attacks on Russian [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "With Ken Paxton's race faltering, GOP looks for someone to blame",
-      "link": "https://www.wspa.com/news/national/with-ken-paxtons-race-faltering-gop-looks-for-someone-to-blame/",
-      "published": "2026-10-18T21:01:56",
-      "description": "Texas's Senate race is devolving into a blame game among Republicans weeks out from Election Day as the party's nominee Ken Paxton faces a stream of negative headlines and Democrats grow increasingly confident about flipping the state.   Republican tensions spilled into the public Thursday when President Trump lashed out at incumbent Sen. John Cornyn (R-Texas) and veteran [...]",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Bakery stand sale! I over",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178091326135660/",
-      "published": "2026-10-18T19:55:14",
-      "description": "Bakery stand sale! I over baked a bit this weekend \ud83c\udf6a\ud83c\udf5e",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Driver released from custody after 2 killed, more injured in crash at Kansas soccer field",
-      "link": "https://www.wspa.com/news/national/driver-released-from-custody-after-2-killed-more-injured-in-crash-at-kansas-soccer-field/",
-      "published": "2026-10-18T19:44:59",
-      "description": "A 6-year-old boy and a 35-year-old man were killed in the crash that sent 10 others to the hospital.",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Sheriff's office investigating 'swatting' incidents",
-      "link": "https://www.wspa.com/news/sheriffs-office-investigating-swatting-incidents/",
-      "published": "2026-10-18T19:15:00",
-      "description": "Deputies are investigating a series of false calls of explosives and a murder at a home over the course of two days.",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "Oh my gosh. I tried",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2178046959473430/",
-      "published": "2026-10-18T18:45:33",
-      "description": "Oh my gosh. I tried Dutch Bros for the first time today. I got cookie butter freeze. I am NOT a coffee drinker. It blows my mind how good this is. I\u2019m already planning my trip tomorrow. What are your go too items ?",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "MapQuest's new 'surveillance layer' feature flags Flock cameras on users' routes",
-      "link": "https://www.wspa.com/news/mapquests-new-surveillance-layer-feature-flags-flock-cameras-on-users-routes/",
-      "published": "2026-10-18T17:41:00",
-      "description": "\u201cThe Roads Have Eyes!\u201d MapQuest said while unveiling the feature.",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "One dead in Spartanburg County crash",
-      "link": "https://www.wspa.com/news/one-dead-in-spartanburg-county-crash-8/",
-      "published": "2026-10-18T17:40:49",
-      "description": "One person is dead and two others hospitalized as a result of a crash in Spartanburg County.",
-      "source": "WSPA 7News"
-    },
-    {
-      "title": "\ud83c\udf41\ud83c\udf42 Come see us in",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177992059478920/",
-      "published": "2026-10-18T17:28:57",
-      "description": "\ud83c\udf41\ud83c\udf42 Come see us in Downtown Landrum- where it always feels a bit like Stars Hollow \ud83c\udf41\ud83c\udf42",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Lunch until 3:00pm!",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177880216156771/",
-      "published": "2026-10-18T17:11:34",
-      "description": "Lunch until 3:00pm!",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Pop Belly Mo's Soul Food",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177972449480881/",
-      "published": "2026-10-18T17:01:35",
-      "description": "Pop Belly Mo's Soul Food Sunday \ud83d\ude0b\n\nGet it while it lasts!",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Tried Crossroads Coffee House for",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177969492814510/",
-      "published": "2026-10-18T16:57:49",
-      "description": "Tried Crossroads Coffee House for the first time yesterday located in Boiling Springs and was not disappointed... Definitely going back.",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Come and get your large",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177938569484269/",
-      "published": "2026-10-18T16:18:25",
-      "description": "Come and get your large one topping pizza for only 10.99",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "SANDY'S CHEW CHEW'S SUNDAY MENU",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177925899485536/",
-      "published": "2026-10-18T16:02:46",
-      "description": "SANDY'S CHEW CHEW'S SUNDAY MENU CALL IN WELCOME 864-425-1324 DOWNTOWN gaffney e birnie st 11-5 homemade",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Not too long ago Buffalo",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177919746152818/",
-      "published": "2026-10-18T15:54:34",
-      "description": "Not too long ago Buffalo WW in Spartanburg was a bit of a dumpster fire.   My understanding is that it\u2019s under new management and has improved.   I have a family member going there today and thought I\u2019d ask the group for current opinions on BWW.   Thoughts?",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Royal Feast Awaits at Maharaja!",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177888322822627/",
-      "published": "2026-10-18T15:15:06",
-      "description": "Royal Feast Awaits at Maharaja! \u2728\ud83d\udc51",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "At Thai Basil Spartanburg,SC 2601",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177847679493358/",
-      "published": "2026-10-18T14:24:09",
-      "description": "At Thai Basil Spartanburg,SC 2601 E Main Street Spartanburg , SC 29307",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Hi, I\u2019m Thejani, a home",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177826252828834/",
-      "published": "2026-10-18T13:57:34",
-      "description": "Hi, I\u2019m Thejani, a home baker B A K E D - by - P A M Z based in Spartanburg, SC \ud83c\udf82\nI specialize in  fondant and buttercream cakes , cupcakes, cake pops, sugar cookies , brownies, chocolate covered treats made with love for your special moments.\n\nFrom birthdays and anniversaries to baby showers, weddings, and celebrations of all kinds, I create cakes that are not only beautiful but delicious too. Every cake is custom-designed to match your theme and vision.\n\n\u2728 Custom designs\n\u2728 Quality ingredients-",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "\ud83c\udf41\u2600\ufe0f IT\u2019S A BEAUTIFUL FALL",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177743502837109/",
-      "published": "2026-10-18T12:11:33",
-      "description": "\ud83c\udf41\u2600\ufe0f IT\u2019S A BEAUTIFUL FALL SUNDAY, INMAN!\n\n\u26be HOME RUN CAFE IS OPEN TODAY 11AM\u20134PM!\n\nCome grab your favorite drink, stroll through Market on Mill, and enjoy this gorgeous fall day! \ud83c\udf42\n\n\u2764\ufe0f We\u2019d love your support today! Every purchase means so much!\n\nSIP LOCAL. SHOP SMALL. ENJOY FALL! \ud83e\udde1",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Bakery Stand is open! Sunday",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177721419505984/",
-      "published": "2026-10-18T11:39:13",
-      "description": "Bakery Stand is open! Sunday Oct 18 7:30-6:30",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "It\u2019s a SENSATIONAL AUTUMN SUNDAY",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177543012857158/",
-      "published": "2026-10-18T06:57:27",
-      "description": "It\u2019s a SENSATIONAL AUTUMN SUNDAY at THE WHISTLE STOP CAFE\u2763\ufe0f Join us for our DAILY LUNCH MENU\u2763\ufe0f BRUNCH or a SOUTHERN-STYLE MEAT & THREE\u2763\ufe0fPLEASE CONTINUE TO VOTE EVERYDAY FOR OUR ENTRY IN THE SCARECROW COMPETITION\u2014MISS DOLLY\u2763\ufe0f HOPE YOU ENJOY our tribute to her on our daily reels all month\u2763\ufe0fALL ABOARD\u2763\ufe0f\ud83e\udd70",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Pho \ud83c\udf5c beef combo at",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177439986200794/",
-      "published": "2026-10-18T04:07:22",
-      "description": "Pho \ud83c\udf5c beef combo at LemonTree",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "Continuing this since comments were",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177192809558845/",
-      "published": "2026-10-17T20:53:32",
-      "description": "Continuing this since comments were automatically turned off and I couldn\u2019t comment:",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "\u2728Starting at 5 PM\u2026 join",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177160082895451/",
-      "published": "2026-10-17T19:55:59",
-      "description": "\u2728Starting at 5 PM\u2026 join us for Oktoberfest day #2! Try our Jumbo Knockwurst, Potato Pancakes, and Beef Sauerbraten\u2026 See you soon, Landrum. \ud83c\udde9\ud83c\uddea\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73\n#sauerbraten #germanfood #landrumsc #oktoberfest",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
-      "title": "I know it\u2019s Greer and",
-      "link": "https://www.facebook.com/groups/SpartanburgEats/posts/2177154206229372/",
-      "published": "2026-10-17T19:49:07",
-      "description": "I know it\u2019s Greer and not Spartanburg, but I just ate at  Legends Pacific Island Grill and it was so good! This was the two lovers plate which was some of their chicken and shrimp",
-      "source": "Spartanburg Eats (Facebook)"
-    },
-    {
       "title": "Morgan Square Redesign",
       "link": "https://forum.urbanplanet.org/topic/119681-morgan-square-redesign/?do=findComment&comment=1998662",
       "published": "2026-10-17T19:04:56",
@@ -380,13 +562,6 @@
       "published": "2026-10-17T10:44:16",
       "description": "I spent the afternoon in downtown Spartanburg last week. It was great to see all of the construction projects going on and really understand how it all knits together.  I found that the vehicular traffic flow as a result of the street closures around the square to be confusing and divides downtown into that which is west of the square (new, exciting, prosperous), and that which is across Church Street (vacancies and no buzz). I support the concept of closing the square to cars, but I really thin",
       "source": "Urban Planet Spartanburg"
-    },
-    {
-      "title": "Vice President JD Vance to speak at midterm rally in Hendersonville",
-      "link": "https://www.wspa.com/news/top-stories/jd-vance-hendersonville-rally/",
-      "published": "2026-10-16T20:40:57",
-      "description": "Vice President Vance will speak at a midterm rally in Hendersonville on Monday.",
-      "source": "WSPA 7News"
     },
     {
       "title": "Talking With Beck About Community & Biking in Savannah, GA",
@@ -457,6 +632,13 @@
       "published": "2026-10-15T13:15:04",
       "description": "FILOT agreements have allowed S.C. and Spartanburg County to drive economic opportunity by keeping our state competitive. Without this tool, projects are much less likely to consider bringing investment and jobs to South Carolina. And, a negotiated-down percentage of something \u2013 still generating millions in revenue for local government \u2013 is better than 100% of nothing. https://factsfirstspartanburg.com/filots-a-tool-used-for-e\u2026/",
       "source": "OneSpartanburg, Inc. (Facebook)"
+    },
+    {
+      "title": "Starting from the ground up at Sweetgrass! \ud83d\udc4a We\u2019re kicking things off on this 25-acre site, digging a pond and moving d...",
+      "link": "https://www.instagram.com/p/Deg8Cj7xZvb",
+      "published": "2026-10-15T12:18:23",
+      "description": "Starting from the ground up at Sweetgrass! \ud83d\udc4a\n\nWe\u2019re kicking things off on this 25-acre site, digging a pond and moving dirt to build up the pads for future single-family homes and townhomes.\n\nPlenty of dirt to move on this one, and we\u2019re just getting started on this one with @seamonwhiteside!\n\n#construction #bluecollar #earthwork #dozer #dirt",
+      "source": "SeamonWhiteside (Instagram)"
     },
     {
       "title": "Every City of Spartanburg employee plays an important role in making our community a great place to live, work, and play...",
@@ -634,39 +816,11 @@
       "source": "City of Spartanburg (Facebook)"
     },
     {
-      "title": "Join Spartanburg City Fire Department for their 23rd Annual Open House on Sunday, October 11, from 2\u20135 PM at 450 Wofford...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02xffSzkHMJ9bSkiKx1CiUZJVwtbTme6PHKvDmJZ5tuQbchbdk9mkg9ApNxBnrJf6Ll",
-      "published": "2026-10-09T13:42:31",
-      "description": "Join Spartanburg City Fire Department for their 23rd Annual Open House on Sunday, October 11, from 2\u20135 PM at 450 Wofford Street! Bring the whole family for a FREE afternoon of food, games, fire safety activities, and fun! \ud83d\ude92 FIRE PREVENTION WEEK OPEN HOUSE! \ud83d\ude92 Join Spartanburg City Fire Department for our 23rd Annual Open House on Sunday, October 11, from 2\u20135 PM at 450 Wofford Street! Bring the whole family for a FREE afternoon of food, games, fire safety activities, and fun! \ud83d\ude92 Explore our fire tr",
-      "source": "City of Spartanburg (Facebook)"
-    },
-    {
-      "title": "Do you know a creative K-8 student in Spartanburg County? Encourage them to participate in our Dr. Martin Luther King Jr...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid037aSnzY3nW6uJ6adDTKZRjsZRAoNJJqQGLLNdEiKbZpTqM5hAejhhCRZyTBpVRP1dl",
-      "published": "2026-10-08T19:00:08",
-      "description": "Do you know a creative K-8 student in Spartanburg County? Encourage them to participate in our Dr. Martin Luther King Jr. Unity Celebration Art Contest! The Art Contest is open to any Spartanburg County K-8 student with the theme, \"40 Years of Unity: Let's Create Together. What will You Do to Carry the Dream Forward?\" Students may submit their artwork through their school's art teacher by Friday, November 20th. \ud83c\udfa8",
-      "source": "City of Spartanburg (Facebook)"
-    },
-    {
-      "title": "Join BirthMatters on Sunday, October 11, for a meaningful time of remembrance and healing for those who have experienced...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02USpe5vg948SrmEji8JPZ1ZaQActE88qFJR4DWd5FgAGkAkGRVfVX13ssiZo8LEsCl",
-      "published": "2026-10-08T15:28:22",
-      "description": "Join BirthMatters on Sunday, October 11, for a meaningful time of remembrance and healing for those who have experienced pregnancy or infant loss. This gathering will be held in a soft, light, and supportive environment. There is no expectation that anyone speak, share, or tell their story. Participate in whatever way feels right for you \u2014 or simply come and be present. \ud83e\udd0d A Gentle Space for Remembrance & Healing \ud83e\udd0d On Sunday, October 11, we invite you to join us for a meaningful time of remembran",
-      "source": "City of Spartanburg (Facebook)"
-    },
-    {
       "title": "We made our way to Little River Coffee Bar and Pharmacy Coffee to try their fall menus \ud83c\udf41\ud83c\udf83\ud83c\udf42 Think pumpkin, maple, chai...",
       "link": "https://www.facebook.com/reel/28732386363040467/",
       "published": "2026-10-08T15:00:42",
       "description": "We made our way to Little River Coffee Bar and Pharmacy Coffee to try their fall menus \ud83c\udf41\ud83c\udf83\ud83c\udf42 Think pumpkin, maple, chai, apple, berry and all the cozy fall flavors you could want. They\u2019re only here for a limited time, so call a friend to downtown with and pick your favorite spot for a fall coffee break. You don\u2019t want to miss these \ud83e\udde1 #DowntownSpartanburgSC #ExperienceSpartanburg #SpartanburgSC",
       "source": "Downtown Spartanburg SC (Facebook)"
-    },
-    {
-      "title": "EDIT: Due to Saturday's weather forecast, Move Together Spartanburg will take place at Yogaunme, 1111 WO Ezell Blvd, and...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02pr1DPdUT1WXcqPjoeKwuRdQq8PAVVqDQDUp6Rkp4k1ZEvvttQsrMSDZqiGLQLXiTl",
-      "published": "2026-10-08T14:00:43",
-      "description": "EDIT: Due to Saturday's weather forecast, Move Together Spartanburg will take place at Yogaunme, 1111 WO Ezell Blvd, and will begin at 11:30 AM (check-in starts at 11 AM). Move Together Spartanburg is back on Morgan Square this Saturday, October 10th from 9 AM until 12 PM with a 45-minute yoga class hosted by Yogaunme and Live Healthy Spartanburg! All ages & experience levels are welcome to this free, fun healthy morning event. Please pre-register at https://momence.com/\u2026/Move-Together-Spartanbu",
-      "source": "City of Spartanburg (Facebook)"
     },
     {
       "title": "The Opportunity to Shape Our City\u2019s Future",
@@ -711,20 +865,6 @@
       "source": "Strong Towns Spartanburg (Instagram)"
     },
     {
-      "title": "Thank you to all our City neighborhoods who celebrated National Night Out yesterday evening!  National Night Out is an a...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid05XBxUS37kKWZCw2rexXxfN7gLyFcYPRjdPNA5LgAPLVERM5Nrv1UPSBJrrZ36xuFl",
-      "published": "2026-10-07T17:37:17",
-      "description": "Thank you to all our City neighborhoods who celebrated National Night Out yesterday evening! National Night Out is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. In Spartanburg, we celebrate the first Tuesday in October and great weather, a strong sense of community pride, and the presence of City staff & elected officials, police officers and firefighters, local non-profi",
-      "source": "City of Spartanburg (Facebook)"
-    },
-    {
-      "title": "The weather is perfect and Wall Street Wednesday is back this evening from 6 PM until 8 PM! Come enjoy a beautiful eveni...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid02RJDqAbUm98cdYL9cYYSe2eD5BtQ1ffwcNgGbQwaF4PYRvCE3Jqq9PQbAnWridZrkl",
-      "published": "2026-10-07T14:00:51",
-      "description": "The weather is perfect and Wall Street Wednesday is back this evening from 6 PM until 8 PM! Come enjoy a beautiful evening in Downtown Spartanburg with our live music on Wall Street and enjoy dinner al fresco!\ud83c\udfb6 \ud83c\udfb8 Our featured artist is John McElmurry!",
-      "source": "City of Spartanburg (Facebook)"
-    },
-    {
       "title": "If you live in the Boiling Springs area or are served by Spartanburg School District 2, you\u2019re invited to our next Caffe...",
       "link": "https://m.facebook.com/OneSpartanburgInc/posts/pfbid02pCmCz3q6kw6R7azzsb4KWMycx4FVw5XqB4AXy6MuM8yMvSKCc5wa8PN8b4Z7JH9Xl",
       "published": "2026-10-07T11:59:01",
@@ -746,25 +886,11 @@
       "source": "SeamonWhiteside (Instagram)"
     },
     {
-      "title": "Our Code Spartanburg kick off meetings are this week and you're invited!  Please join us at one of our public informatio...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid04eJBDX3wStURes7AfK9Qv4UfTBhdQQB94Fb29AKqJdtbFxg1dpnC798f3hKv2zCpl",
-      "published": "2026-10-06T19:00:04",
-      "description": "Our Code Spartanburg kick off meetings are this week and you're invited! Please join us at one of our public information sessions allowing residents to learn more about Code Spartanburg, ask questions, and share your insight on the future of Spartanburg\u2019s growth. \ud83d\udcc6 Wednesday, October 7th from 4:30 PM until 7:30 PM in the Barrett Room at the Spartanburg Headquarters Library (151 S Church St.) \ud83d\udcc6 Thursday, October 8th from 4:30 PM until 7:30 PM at the Dr. T.K. Gregg Community Center (650 Howard St.",
-      "source": "City of Spartanburg (Facebook)"
-    },
-    {
       "title": "Our Columbus, GA studio has a new home! \ud83d\udccd We\u2019ve moved into the historic Riverfront Building at 1101 Front Ave \u2014 with th...",
       "link": "https://m.facebook.com/mpsarchitecture/posts/pfbid04fPX3YbgjQmK9qjdehSHdqfjS9d8sJsUKMgfWw9EnwZYEgjMJHqq8D7w9ZP4q8Zzl",
       "published": "2026-10-06T18:08:55",
       "description": "Our Columbus, GA studio has a new home! \ud83d\udccd We\u2019ve moved into the historic Riverfront Building at 1101 Front Ave \u2014 with the same team, the same leadership, and the same commitment to a community we\u2019ve served for more than 65 years. From the Mercer University School of Medicine to the Col. Ralph Puckett Jr. VECTR Workforce Development Center, our work continues to support education, opportunity, and growth across Columbus and rural Georgia. Read more: https://hubs.li/Q04zll8g0 #MPSArchitecture #Colu",
       "source": "McMillan Pazdan Smith (Facebook)"
-    },
-    {
-      "title": "Did you know that January 2027 will be our 40th Anniversary of the citywide Dr. Martin Luther King Jr. Unity Week Celebr...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid0XpCV61sopT91rzbGR3MKG71jEXJtKhjbv8rL7PyRECvxenTYTZe2PYnHAqs8ntERl",
-      "published": "2026-10-06T14:00:21",
-      "description": "Did you know that January 2027 will be our 40th Anniversary of the citywide Dr. Martin Luther King Jr. Unity Week Celebration? In honor of Dr. King's vision, we're celebrating the youth in our community who are making a positive impact through kindness, humanitarianism, and philanthropy with our annual Dr. Martin Luther King Jr. Unity Celebration Youth Humanitarian Award. The Youth Humanitarian Award honors a Spartanburg County K-12 student making a positive impact in the community who exemplifi",
-      "source": "City of Spartanburg (Facebook)"
     },
     {
       "title": "Downtown Projects & Developments",
@@ -779,13 +905,6 @@
       "published": "2026-10-05T19:01:20",
       "description": "If you have a dog or cat, consider this your sign to go downtown and stop by Paisley Paw \ud83d\udc3e The new Bark Bar is officially open, where you can make your pup a custom mix of their favorite treats. And while you\u2019re there, you might as well browse all the cute toys, goodies and other finds they have for your four-legged crew! \ud83d\udccd 155 E Broad St | Downtown Spartanburg, SC #DowntownSpartanburgSC #ExperienceSpartanburg",
       "source": "Downtown Spartanburg SC (Facebook)"
-    },
-    {
-      "title": "National Night Out is tomorrow! Join 15 neighborhoods around the City on Tuesday, October 6th (times vary, please see sp...",
-      "link": "https://m.facebook.com/spartanburg.sc/posts/pfbid022qfwauUaoJAVRFi5TL9md2SAs636AwCmpp4PmLjQEipL5U7Q8LXfcBZQyfqjTPfEl",
-      "published": "2026-10-05T19:00:06",
-      "description": "National Night Out is tomorrow! Join 15 neighborhoods around the City on Tuesday, October 6th (times vary, please see specific locations & times on flyer), for fun, food, activities, conversations with neighbors and community groups, and interactions with our local police officers and firefighters. Visit https://www.cityofspartanburg.org/189/National-Night-Out for more information.",
-      "source": "City of Spartanburg (Facebook)"
     },
     {
       "title": "FILOT agreements aren't just necessary for job-creation, they're vital for the long-term economic health of communities...",
@@ -1026,13 +1145,6 @@
       "source": "Downtown Spartanburg SC (Facebook)"
     },
     {
-      "title": "When telling the story of the past decade-plus of success in Spartanburg County, few people deserve more credit than Kat...",
-      "link": "https://m.facebook.com/OneSpartanburgInc/posts/pfbid0Gg98ds1nwRK9Y4SqVvtSADYZ6SZnvJ5C2eYXoa7BXAPwegQm6qunWD5qfjnBpduol",
-      "published": "2026-09-21T16:10:03",
-      "description": "When telling the story of the past decade-plus of success in Spartanburg County, few people deserve more credit than Katherine O\u2019Neill. As our current Chief Economic Development Officer, and formerly as County Administrator, Katherine has been a differentiator for our community. Since joining OneSpartanburg, Inc. in November 2019, she has led the recruitment of $10.45 billion to Spartanburg County, leading to the creation of 9,177 jobs. Alongside her professional duties, Katherine gives back to ",
-      "source": "OneSpartanburg, Inc. (Facebook)"
-    },
-    {
       "title": "Porchfest \ud83e\udd1d alternate transportation \ud83d\ude0e what\u2019s more fun than a full afternoon of @hhporchfest?! Cruisin\u2019 along with @st...",
       "link": "https://www.instagram.com/p/DdjPhB0R9z7",
       "published": "2026-09-21T13:30:25",
@@ -1058,69 +1170,6 @@
       "link": "https://forum.urbanplanet.org/topic/51116-the-grain-district/?do=findComment&comment=1996599",
       "published": "2026-09-21T00:31:08",
       "description": "Parking deck for the apartments continues to grow.",
-      "source": "Urban Planet Spartanburg"
-    },
-    {
-      "title": "Reflections on My Work",
-      "link": "https://walkingspartan.substack.com/p/reflections-on-my-work",
-      "published": "2026-09-18T19:38:53",
-      "description": "I am proud to say that I was selected as the 2026 recipient of OneSpartanburg\u2019s Young Professional of the Year Award . For those not in the \u2018burg, OneSpartanburg is an economic development organization that came about when our Spartanburg Area Chamber of Commerce, the Spartanburg Convention and Visitors Bureau, and the Spartanburg Economic Futures Group merged into one. Not important for this post, but I think it is interesting since this is a model that differs from other places. [The Walking S",
-      "source": "Walking Spartan (Substack)"
-    },
-    {
-      "title": "Last night at our 2026 Annual Celebration: Ascending Together, we recognized the countywide impact made by some exemplar...",
-      "link": "https://m.facebook.com/OneSpartanburgInc/posts/pfbid034Sbhsk9K6ftUkci4jnyKbqGJp7uNP1xHXH6rp5dVUgCh24EDgGDUc7KUVFoK966Jl",
-      "published": "2026-09-18T18:32:45",
-      "description": "Last night at our 2026 Annual Celebration: Ascending Together, we recognized the countywide impact made by some exemplary local businesses and dedicated community leaders who are serving Spartanburg County in a variety of ways. We also took time to reflect on our community\u2019s trajectory and the people who are positively impacted by our organization\u2019s mission. The full list of award-winners can be found here: https://www.onespartanburginc.com/\u2026/onespartanburg-inc.-re\u2026/",
-      "source": "OneSpartanburg, Inc. (Facebook)"
-    },
-    {
-      "title": "The first-ever Burgtoberfest is happening next weekend! \ud83c\udf7a\ud83c\udf42 Burgtoberfest will bring the spirit of a traditional German...",
-      "link": "https://m.facebook.com/downtownspartanburgsc/posts/pfbid027nSyFwLYE8kEHQqSKZ4Xi8YbP1SP6tB19yKwbz455XkoENstoradWVugxyNN27udl",
-      "published": "2026-09-18T15:50:45",
-      "description": "The first-ever Burgtoberfest is happening next weekend! \ud83c\udf7a\ud83c\udf42 Burgtoberfest will bring the spirit of a traditional German Oktoberfest to Morgan Square on Saturday, September 26, from 12\u201310 PM. Come out to enjoy live music, family-friendly fun, food, and fall  festivities while experiencing a celebration rooted in German heritage in the heart of Downtown Spartanburg! We can\u2019t wait to see you there \ud83e\udd29 #DowntownSpartanburgSC #ExperienceSpartanburg #Burgtoberfest #Oktoberfest",
-      "source": "Downtown Spartanburg SC (Facebook)"
-    },
-    {
-      "title": "Meet Paul Peeples, PE, Civil Engineering Team Leader at SeamonWhiteside! On this edition of the Mount Pleasant Made loca...",
-      "link": "https://www.instagram.com/p/DdaGSJOjv_X",
-      "published": "2026-09-18T00:00:44",
-      "description": "Meet Paul Peeples, PE, Civil Engineering Team Leader at SeamonWhiteside!\n\nOn this edition of the Mount Pleasant Made local business spotlight series, hear from him about projects SeamonWhiteside has worked on in town. Shopping centers, banks, grocery stores, and more everyday stops residents frequently visit.\n\nSee why SeamonWhiteside strives to be the most exceptional site design firm in Mount Pleasant.",
-      "source": "SeamonWhiteside (Instagram)"
-    },
-    {
-      "title": "\ud83c\udfeb School consolidation is about more than enrollment numbers. With aging buildings, shifting enrollment, and tighter bu...",
-      "link": "https://m.facebook.com/mpsarchitecture/posts/pfbid029BGDfSZZYQUhgdVREKyJPeqqP6bKcX1VEWjGCmnuEmtf3UJFRZe5y6YRA9ETtGmCl",
-      "published": "2026-09-17T14:00:46",
-      "description": "\ud83c\udfeb School consolidation is about more than enrollment numbers. With aging buildings, shifting enrollment, and tighter budgets, school districts face difficult decisions about the future of their facilities. But how can they balance financial responsibility with the needs of students, educators, and the communities they serve? In American School & University, MPS Principal Ben Thompson explores how thoughtful facility planning, data, and community input can help districts make informed, long-term ",
-      "source": "McMillan Pazdan Smith (Facebook)"
-    },
-    {
-      "title": "A Conversation on Flock Cameras, Traffic Enforcement, and Safer Streets",
-      "link": "https://walkingspartan.substack.com/p/a-conversation-on-flock-cameras-traffic",
-      "published": "2026-09-17T13:55:04",
-      "description": "I will state that this will likely be a contentious article and y\u2019all will not all agree with me. That is alright, but I hope that you listen to this argument with an open mind as we weigh surveillance and safety. I will state, before we go into setting the scene, that I am against Flock and Flock-style (more on that soon) cameras invading the public realm on our streets and in our cities. I do not believe that the stated safety benefits outweigh the risk to privacy, especially given the systems",
-      "source": "Walking Spartan (Substack)"
-    },
-    {
-      "title": "GE Vernova Park opened in Mauldin this past June \u2014 a professional soccer stadium and community venue, home to Greenville...",
-      "link": "https://m.facebook.com/johnstondesigngroup/posts/pfbid02vBPFFy63jYSC7siFgYzBkCdniDGbC6xiPGn58BtC6NaoMcFFUsv9d1txPiEexo5Pl",
-      "published": "2026-09-16T14:49:03",
-      "description": "GE Vernova Park opened in Mauldin this past June \u2014 a professional soccer stadium and community venue, home to Greenville Triumph SC and Greenville Liberty SC. The first match drew a sell-out crowd of 4,252, the largest home crowd in the Triumph's history. We're proud to be the architect. But the reason this one matters to us is that the stadium wasn't built in the middle of a parking lot. It was built inside a walkable village, and that changes what the building is for. An evening here starts an",
-      "source": "Johnston Design Group (Facebook)"
-    },
-    {
-      "title": "The name \u2018EDGE\u2019 coalesces ongoing work to create more work-based learning experiences for Spartanburg County students, a...",
-      "link": "https://m.facebook.com/OneSpartanburgInc/posts/pfbid0ychAupjobuQsaxHX9DTUtZriUrCx2iop1gMxmPqfdt2EGmtri4CrhJ3ULhmocSshl",
-      "published": "2026-09-16T08:12:11",
-      "description": "The name \u2018EDGE\u2019 coalesces ongoing work to create more work-based learning experiences for Spartanburg County students, aiming to tighten the connection between schools and employers so more young people can move from education into fields that lead them to long-term success. \u201cFrom an education and investment standpoint, we know there\u2019s no single silver bullet that changes outcomes for young people. What works is stacking opportunities over time; strong schools, clear postsecondary pathways, and ",
-      "source": "OneSpartanburg, Inc. (Facebook)"
-    },
-    {
-      "title": "Spartanburg Area Economic Developments",
-      "link": "https://forum.urbanplanet.org/topic/41817-spartanburg-area-economic-developments/?do=findComment&comment=1996051",
-      "published": "2026-09-13T17:19:52",
-      "description": "BMW commits to additional warehouse space in Spartanburg County! https://www.commercialsearch.com/news/greystar-lands-bmw-lease-at-greenville-area-campus/",
       "source": "Urban Planet Spartanburg"
     }
   ]
